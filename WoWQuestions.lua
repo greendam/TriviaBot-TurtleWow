@@ -2532,7 +2532,7 @@ WOW_TRIVIA_ANSWERS1[665] = "false";
 WOW_TRIVIA_QUESTIONS[666] = "The blue dragonkin's in _________ can now drop an Azure Whelp, a blue dragon pet.";
 WOW_TRIVIA_ANSWERS1[666] = "Azshara";
 
-# -- Naxxrammas
+-- Naxxrammas
 
 WOW_TRIVIA_QUESTIONS[667] = "Naxxrammas was once an ancient ________ ziggurat, before it was pulled free from the ground by agents of the Lich King. It served as Kel'Thuzad's base of operations as he spread the plague. It's the home of Kel'Thuzad.";
 WOW_TRIVIA_ANSWERS1[667] = "nerubian";
