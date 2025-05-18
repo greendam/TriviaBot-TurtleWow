@@ -741,28 +741,27 @@ WOW_TRIVIA_ANSWERS2[175] = "SW";
 WOW_TRIVIA_QUESTIONS[176] = "Where is the Valley of Kings?";
 WOW_TRIVIA_ANSWERS1[176] = "Loch Modan";
 
-WOW_TRIVIA_QUESTIONS[177] = "Which class originally soloed Kazzak?";
-WOW_TRIVIA_ANSWERS1[177] = "Paladin";
-WOW_TRIVIA_ANSWERS2[177] = "Paladins";
+WOW_TRIVIA_QUESTIONS[177] = "/moon tells you the current location of Darkmoon Faire, true or false?";
+WOW_TRIVIA_ANSWERS1[177] = "false";
+WOW_TRIVIA_ANSWERS2[177] = "F";
 
-WOW_TRIVIA_QUESTIONS[178] = "How many DoTs can a warlock have as abilities?";
-WOW_TRIVIA_ANSWERS1[178] = "5";
-WOW_TRIVIA_ANSWERS2[178] = "Five";
+WOW_TRIVIA_QUESTIONS[178] = "Which title you receive by collection all cats in game?";
+WOW_TRIVIA_ANSWERS1[178] = "Crazy Cat Lady";
 
-WOW_TRIVIA_QUESTIONS[179] = "What class besides a Warrior has a talent tree called protection?";
-WOW_TRIVIA_ANSWERS1[179] = "Paladin";
-WOW_TRIVIA_ANSWERS2[179] = "Paladins";
+WOW_TRIVIA_QUESTIONS[179] = "Which title you receive by collection all frogs in game?";
+WOW_TRIVIA_ANSWERS1[179] = "Lord of the Frogs";
 
-WOW_TRIVIA_QUESTIONS[180] = "Before the Paladin revamp, what was the top tier spell in the retribution tree of Paladins?";
-WOW_TRIVIA_ANSWERS1[180] = "Blessing of Kings";
-WOW_TRIVIA_ANSWERS2[180] = "BoK";
+WOW_TRIVIA_QUESTIONS[180] = "What's the drop rate of the Scythe of Elune from Lord Blackwald II?";
+WOW_TRIVIA_ANSWERS1[180] = "0.85%";
+WOW_TRIVIA_ANSWERS2[180] = "0.85";
 
-WOW_TRIVIA_QUESTIONS[181] = "On which boss in Naxxramas do you have to mind control a mob, but not use it for more than 5 seconds?";
-WOW_TRIVIA_ANSWERS1[181] = "Grand widow faerlina";
-WOW_TRIVIA_ANSWERS2[181] = "Faerlina";
+WOW_TRIVIA_QUESTIONS[181] = "On which boss in Kara40 do you have to have 200 arcane resistance?";
+WOW_TRIVIA_ANSWERS1[181] = "Anomalus";
 
-WOW_TRIVIA_QUESTIONS[182] = "What is the Alliance equivelent to Will of the Forsaken? (gives a great advantage against a certain class)";
-WOW_TRIVIA_ANSWERS1[182] = "perception";
+WOW_TRIVIA_QUESTIONS[182] = "Which race can use bow as a priest?";
+WOW_TRIVIA_ANSWERS1[182] = "Night Elf";
+WOW_TRIVIA_ANSWERS2[182] = "Night Elves";
+WOW_TRIVIA_ANSWERS3[182] = "nelf";
 
 WOW_TRIVIA_QUESTIONS[183] = "Who originally dropped the lightforge gauntlets?";
 WOW_TRIVIA_ANSWERS1[183] = "Emperor Dagran Thaurissan";
@@ -771,15 +770,15 @@ WOW_TRIVIA_ANSWERS2[183] = "Dagran Thaurissan";
 WOW_TRIVIA_QUESTIONS[184] = "In which zone does most blindweed grow?";
 WOW_TRIVIA_ANSWERS1[184] = "Swamp of Sorrows";
 
-WOW_TRIVIA_QUESTIONS[185] = "Which is the only zone where you can find gromsblood, mountain silversage and dreamfoil?";
-WOW_TRIVIA_ANSWERS1[185] = "Felwood";
+WOW_TRIVIA_QUESTIONS[185] = "What's the new primary profession added in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[185] = "Jewelcrafting";
 
-WOW_TRIVIA_QUESTIONS[186] = "Which flask provides players with an extra 400 HP for 2 hours?";
+WOW_TRIVIA_QUESTIONS[186] = "Which flask provides players with an extra 1200 HP for 2 hours?";
 WOW_TRIVIA_ANSWERS1[186] = "Flask of the Titans";
 WOW_TRIVIA_ANSWERS2[186] = "titans";
 WOW_TRIVIA_ANSWERS3[186] = "titan";
 
-WOW_TRIVIA_QUESTIONS[187] = "Loatheb usually requires many Greater ______ Protection Potions.";
+WOW_TRIVIA_QUESTIONS[187] = "Loatheb usually requires Greater ______ Protection Potions.";
 WOW_TRIVIA_ANSWERS1[187] = "Shadow";
 
 WOW_TRIVIA_QUESTIONS[188] = "What is the name of the monument in Azshara that has been broken in half?";
@@ -790,12 +789,13 @@ WOW_TRIVIA_QUESTIONS[189] = "What is the name of the last boss in Shadowfang Kee
 WOW_TRIVIA_ANSWERS1[189] = "Arugal";
 WOW_TRIVIA_ANSWERS2[189] = "Archmage Arugal";
 
-WOW_TRIVIA_QUESTIONS[190] = "What is the ideal amount of Warriors for the 4 Horsemen fight in Naxxramas?";
-WOW_TRIVIA_ANSWERS1[190] = "8";
-WOW_TRIVIA_ANSWERS2[190] = "Eight";
+WOW_TRIVIA_QUESTIONS[190] = "Edge of Madness resets ever __ days";
+WOW_TRIVIA_ANSWERS1[190] = "14";
+WOW_TRIVIA_ANSWERS2[190] = "fourteen";
 
-WOW_TRIVIA_QUESTIONS[191] = "Blackwing Lair was introduced in which patch?";
-WOW_TRIVIA_ANSWERS1[191] = "1.6";
+WOW_TRIVIA_QUESTIONS[191] = "The Tower of Karazhan raid was planned to be released in ____ 2024";
+WOW_TRIVIA_ANSWERS1[191] = "December";
+WOW_TRIVIA_ANSWERS2[191] = "12";
 
 WOW_TRIVIA_QUESTIONS[192] = "Gothik the Harvester in Naxxramas has how many waves of adds?";
 WOW_TRIVIA_ANSWERS1[192] = "18";
@@ -808,17 +808,19 @@ WOW_TRIVIA_ANSWERS2[193] = "Zin-Malor";
 WOW_TRIVIA_QUESTIONS[194] = "What is the color of the rarest AQ40 mount that drops from trash mobs?";
 WOW_TRIVIA_ANSWERS1[194] = "red";
 
-WOW_TRIVIA_QUESTIONS[195] = "What herb will sometimes spawn instead of grave moss in the SM graveyard?";
-WOW_TRIVIA_ANSWERS1[195] = "Kingsblood";
+WOW_TRIVIA_QUESTIONS[195] = "What's the spell power coefficient of Holy Light(Rank 1)?";
+WOW_TRIVIA_ANSWERS1[195] = "33%";
+WOW_TRIVIA_ANSWERS1[195] = "0.33";
 
-WOW_TRIVIA_QUESTIONS[196] = "What debuff once allowed Horde players to attack NPCs of their own faction?";
-WOW_TRIVIA_ANSWERS1[196] = "Mark of Shame";
+WOW_TRIVIA_QUESTIONS[196] = "Where does the boat take you to from Stormwind Harbor?";
+WOW_TRIVIA_ANSWERS1[196] = "Auberdine";
+WOW_TRIVIA_ANSWERS1[196] = "Darkshore";
 
 WOW_TRIVIA_QUESTIONS[197] = "Who is the final boss you have to kill for the tier 0.5 series of quests?";
 WOW_TRIVIA_ANSWERS1[197] = "Lord Valthalak";
 WOW_TRIVIA_ANSWERS2[197] = "Valthalak";
 
-WOW_TRIVIA_QUESTIONS[198] = "Greater Shadow Protection potions require one dreamfoil, one __________, and one crystal vial.";
+WOW_TRIVIA_QUESTIONS[198] = "Greater Shadow Protection potions require 2 Arthas' Tears, one __________, and one crystal vial.";
 WOW_TRIVIA_ANSWERS1[198] = "shadow oil";
 
 WOW_TRIVIA_QUESTIONS[199] = "How long is the auto-release timer when you die outside of an instance?";
@@ -844,11 +846,12 @@ WOW_TRIVIA_QUESTIONS[204] = "Flasks can be crafted in two instances and one zone
 WOW_TRIVIA_ANSWERS1[204] = "Blackwing Lair";
 WOW_TRIVIA_ANSWERS2[204] = "Scholomance";
 
-WOW_TRIVIA_QUESTIONS[205] = "What creature despawns at 20%, saying it is 'not his time yet'?";
-WOW_TRIVIA_ANSWERS1[205] = "Anachronos";
+WOW_TRIVIA_QUESTIONS[205] = "What's the name of Archlich Enkhraz's cat?";
+WOW_TRIVIA_ANSWERS1[205] = "Midnight";
 
-WOW_TRIVIA_QUESTIONS[206] = "Which zone contains the original World Tree? (full name)";
+WOW_TRIVIA_QUESTIONS[206] = "Which zone contains the original World Tree? ";
 WOW_TRIVIA_ANSWERS1[206] = "Mount Hyjal"
+WOW_TRIVIA_ANSWERS2[206] = "Hyjal"
 
 WOW_TRIVIA_QUESTIONS[207] = "What is the name of the elite Dragon who patrols the Blasted Lands?";
 WOW_TRIVIA_ANSWERS1[207] = "Teremus the Devourer";
@@ -928,8 +931,8 @@ WOW_TRIVIA_QUESTIONS[226] = "The Gurubashi Arena event takes place at ____-hourl
 WOW_TRIVIA_ANSWERS1[226] = "3";
 WOW_TRIVIA_ANSWERS2[226] = "three";
 
-WOW_TRIVIA_QUESTIONS[227] = "In what patch were the 4 world Dragons introduced?";
-WOW_TRIVIA_ANSWERS1[227] = "1.8";
+WOW_TRIVIA_QUESTIONS[227] = "In what patch was the new zone Tel'Abim added to Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[227] = "1.16.4";
 
 WOW_TRIVIA_QUESTIONS[228] = "What is the lowest level instance in the game?";
 WOW_TRIVIA_ANSWERS1[228] = "Ragefire Chasm";
@@ -939,8 +942,9 @@ WOW_TRIVIA_QUESTIONS[229] = "Which Alliance race has +15 engineering as racial p
 WOW_TRIVIA_ANSWERS1[229] = "Gnome";
 WOW_TRIVIA_ANSWERS2[229] = "Gnomes";
 
-WOW_TRIVIA_QUESTIONS[230] = "Acronyms: What does ATP stand for?";
-WOW_TRIVIA_ANSWERS1[230] = "Attack Power";
+WOW_TRIVIA_QUESTIONS[230] = "What's the name of Stormwind Innkeeper?";
+WOW_TRIVIA_ANSWERS1[230] = "Allison";
+WOW_TRIVIA_ANSWERS2[230] = "Innkeeper Allison";
 
 WOW_TRIVIA_QUESTIONS[231] = "How many fears does the Warlock class have?";
 WOW_TRIVIA_ANSWERS1[231] = "2";
@@ -950,10 +954,11 @@ WOW_TRIVIA_QUESTIONS[232] = "Druids can do Physical, Nature and ______ damage.";
 WOW_TRIVIA_ANSWERS1[232] = "Arcane damage";
 WOW_TRIVIA_ANSWERS2[232] = "arcane";
 
-WOW_TRIVIA_QUESTIONS[233] = "What boss is a anagram for healbot?";
-WOW_TRIVIA_ANSWERS1[233] = "Loatheb";
+WOW_TRIVIA_QUESTIONS[233] = "What's the abyssal abomination you could find on the forbidden island of Kamio?";
+WOW_TRIVIA_ANSWERS1[233] = "foxgirl";
+WOW_TRIVIA_ANSWERS2[233] = "foxgirls";
 
-WOW_TRIVIA_QUESTIONS[234] = "How many PvP ranks existed in the old honor system?";
+WOW_TRIVIA_QUESTIONS[234] = "How many PvP ranks existed in the honor system?";
 WOW_TRIVIA_ANSWERS1[234] = "14";
 WOW_TRIVIA_ANSWERS2[234] = "fourteen";
 
@@ -961,14 +966,14 @@ WOW_TRIVIA_QUESTIONS[235] = "At what PvP rank could you buy PvP mounts? (number)
 WOW_TRIVIA_ANSWERS1[235] = "11";
 WOW_TRIVIA_ANSWERS2[235] = "eleven";
 
-WOW_TRIVIA_QUESTIONS[236] = "Arcane Resilience will increase your armor by what % of your intellect?";
-WOW_TRIVIA_ANSWERS1[236] = "50%";
-WOW_TRIVIA_ANSWERS2[236] = "Fifty";
-WOW_TRIVIA_ANSWERS3[236] = "50";
+WOW_TRIVIA_QUESTIONS[236] = "How long is the cooldown of Elixir of Poison Resistance?";
+WOW_TRIVIA_ANSWERS1[236] = "3";
+WOW_TRIVIA_ANSWERS2[236] = "3s";
+WOW_TRIVIA_ANSWERS3[236] = "3 sec";
+WOW_TRIVIA_ANSWERS4[236] = "3 seconds";
 
-WOW_TRIVIA_QUESTIONS[237] = "What instance is sometimes called 'UD'?";
-WOW_TRIVIA_ANSWERS1[237] = "Stratholme";
-WOW_TRIVIA_ANSWERS2[237] = "Strat";
+WOW_TRIVIA_QUESTIONS[237] = "What instance is sometimes called 'VC'?";
+WOW_TRIVIA_ANSWERS1[237] = "Deadmines";
 
 WOW_TRIVIA_QUESTIONS[238] = "Name a faction that is part of the Steamwheedle Cartel.";
 WOW_TRIVIA_ANSWERS1[238] = "Booty Bay";
@@ -980,7 +985,7 @@ WOW_TRIVIA_QUESTIONS[239] = "What race has the racial skill 'Diplomacy'?";
 WOW_TRIVIA_ANSWERS1[239] = "Human";
 WOW_TRIVIA_ANSWERS2[239] = "Humans";
 
-WOW_TRIVIA_QUESTIONS[240] = "Blizzard will do up to 1472 damage over ___ seconds?";
+WOW_TRIVIA_QUESTIONS[240] = "Blizzard channels for ___ seconds?";
 WOW_TRIVIA_ANSWERS1[240] = "8";
 WOW_TRIVIA_ANSWERS2[240] = "eight";
 
@@ -994,11 +999,13 @@ WOW_TRIVIA_ANSWERS1[242] = "False";
 WOW_TRIVIA_QUESTIONS[243] = "Which class can cast Fear?";
 WOW_TRIVIA_ANSWERS1[243] = "Warlock";
 
-WOW_TRIVIA_QUESTIONS[244] = "The  tier 3 Mage set is called?";
+WOW_TRIVIA_QUESTIONS[244] = "The tier 3 Mage set is called?";
 WOW_TRIVIA_ANSWERS1[244] = "Frostfire";
 
-WOW_TRIVIA_QUESTIONS[245] = "Which is the most hated instance?";
+WOW_TRIVIA_QUESTIONS[245] = "Which dungeon has most Mechanicals type mobs?";
 WOW_TRIVIA_ANSWERS1[245] = "Gnomeregan";
+WOW_TRIVIA_ANSWERS2[245] = "Gnomer";
+
 
 WOW_TRIVIA_QUESTIONS[246] = "Acronyms: What does DKP stand for?";
 WOW_TRIVIA_ANSWERS1[246] = "Dragon Kill Points";
@@ -1056,7 +1063,7 @@ WOW_TRIVIA_ANSWERS1[258] = "Ysera";
 WOW_TRIVIA_ANSWERS2[258] = "Ysera the Dreamer";
 
 WOW_TRIVIA_QUESTIONS[259] = "Who is the leader of the Red Dragonflight?";
-WOW_TRIVIA_ANSWERS1[259] = "Alexstraza";
+WOW_TRIVIA_ANSWERS1[259] = "Alexstrasza";
 WOW_TRIVIA_ANSWERS2[259] = "Alexstrasza the Life-Binder"
 WOW_TRIVIA_ANSWERS3[259] = "Alexstrasza the Life Binder";
 
@@ -1071,7 +1078,7 @@ WOW_TRIVIA_ANSWERS2[261] = "Deathwing";
 WOW_TRIVIA_ANSWERS3[261] = "Neltharion the Earth-Warder";
 WOW_TRIVIA_ANSWERS4[261] = "Deathwing the Destroyer";
 
-WOW_TRIVIA_QUESTIONS[262] = "The Black Dragonflight was originally which color, before becoming corrupted?";
+WOW_TRIVIA_QUESTIONS[262] = "Orcs were originally which color, before becoming corrupted?";
 WOW_TRIVIA_ANSWERS1[262] = "Brown";
 
 WOW_TRIVIA_QUESTIONS[263] = "To where does the portals which the corrupted Emerald Dragons are guarding, lead?";
@@ -1084,10 +1091,8 @@ WOW_TRIVIA_ANSWERS2[264] = "Sunken Temple";
 WOW_TRIVIA_ANSWERS3[264] = "Moonglade";
 WOW_TRIVIA_ANSWERS4[264] = "Moonglade or Sunken Temple";
 
-WOW_TRIVIA_QUESTIONS[265] = "With the Genesis (t2.5) set bonus, what is the cooldown on Rebirth for Druids?";
-WOW_TRIVIA_ANSWERS1[265] = "20 minutes";
-WOW_TRIVIA_ANSWERS2[265] = "Twenty minutes";
-WOW_TRIVIA_ANSWERS3[265] = "Twenty mins";
+WOW_TRIVIA_QUESTIONS[265] = "Tunder Clap does nature damage, true or false?";
+WOW_TRIVIA_ANSWERS1[265] = "Flase";
 
 WOW_TRIVIA_QUESTIONS[266] = "The only non-combat pet with an effect on gameplay is the _____.";
 WOW_TRIVIA_ANSWERS1[266] = "Disgusting Oozeling";
@@ -1128,8 +1133,9 @@ WOW_TRIVIA_ANSWERS1[274] = "Cryptstalker";
 WOW_TRIVIA_QUESTIONS[275] = "What plate item collection from Naxxramas increases frost resistance?";
 WOW_TRIVIA_ANSWERS1[275] = "Icebane";
 
-WOW_TRIVIA_QUESTIONS[276] = "Prince ______ is the Scourge Ambassador to the Vrykuls.";
-WOW_TRIVIA_ANSWERS1[276] = "Keleseth";
+WOW_TRIVIA_QUESTIONS[276] = "Ambassador ______ is the Scourge Ambassador to Razorfen Downs.";
+WOW_TRIVIA_ANSWERS1[276] = "Malcin";
+WOW_TRIVIA_ANSWERS1[276] = "Ambassador Malcin";
 
 WOW_TRIVIA_QUESTIONS[277] = "What is the full name of the last boss in The Deadmines?";
 WOW_TRIVIA_ANSWERS1[277] = "Edwin Van Cleef";
@@ -1139,8 +1145,8 @@ WOW_TRIVIA_ANSWERS1[278] = "Hearthsinger Forresten";
 WOW_TRIVIA_ANSWERS2[278] = "Forresten";
 
 WOW_TRIVIA_QUESTIONS[279] = "Blizzard Entertainment is owned by which company?";
-WOW_TRIVIA_ANSWERS1[279] = "Vivendi Universal Games";
-WOW_TRIVIA_ANSWERS2[279] = "vivendi";
+WOW_TRIVIA_ANSWERS1[279] = "Microsoft Gaming";
+WOW_TRIVIA_ANSWERS2[279] = "Microsoft";
 
 WOW_TRIVIA_QUESTIONS[280] = "What is the homeworld of the eredar called?";
 WOW_TRIVIA_ANSWERS1[280] = "Argus";
@@ -1148,7 +1154,7 @@ WOW_TRIVIA_ANSWERS1[280] = "Argus";
 WOW_TRIVIA_QUESTIONS[281] = "What is the undead's starting place called?";
 WOW_TRIVIA_ANSWERS1[281] = "Deathknell";
 
-WOW_TRIVIA_QUESTIONS[282] = "In which talent tree can the spell 'Dark Pact' be found?";
+WOW_TRIVIA_QUESTIONS[282] = "In which talent tree can the spell 'Dark Harvest' be found?";
 WOW_TRIVIA_ANSWERS1[282] = "Affliction";
 
 WOW_TRIVIA_QUESTIONS[283] = "In which talent tree can the spell 'Soul Link' be found?";
@@ -1182,9 +1188,9 @@ WOW_TRIVIA_ANSWERS1[290] = "Voidwalker";
 WOW_TRIVIA_ANSWERS2[290] = "vw";
 
 WOW_TRIVIA_QUESTIONS[291] = "What is the highest rank of Fireball?";
-WOW_TRIVIA_ANSWERS1[291] = "Rank 13";
-WOW_TRIVIA_ANSWERS2[291] = "13";
-WOW_TRIVIA_ANSWERS3[291] = "thirteen";
+WOW_TRIVIA_ANSWERS1[291] = "Rank 12";
+WOW_TRIVIA_ANSWERS2[291] = "12";
+WOW_TRIVIA_ANSWERS3[291] = "twelve";
 
 WOW_TRIVIA_QUESTIONS[292] = "How much resources do you need to win an Arathi Basin match?";
 WOW_TRIVIA_ANSWERS1[292] = "2000";
@@ -1211,8 +1217,8 @@ WOW_TRIVIA_ANSWERS2[297] = "thunderaan";
 WOW_TRIVIA_QUESTIONS[298] = "Gnomes can be Druids. (True/False)??";
 WOW_TRIVIA_ANSWERS1[298] = "False";
 
-WOW_TRIVIA_QUESTIONS[299] = "Blood elves cannot be Warriors. (True/False)?";
-WOW_TRIVIA_ANSWERS1[299] = "True";
+WOW_TRIVIA_QUESTIONS[299] = "High elves cannot be Warriors. (True/False)?";
+WOW_TRIVIA_ANSWERS1[299] = "False";
 
 WOW_TRIVIA_QUESTIONS[300] = "Name the crafted engineering item that only affects beasts";
 WOW_TRIVIA_ANSWERS1[300] = "Flash Bomb";
@@ -3075,8 +3081,8 @@ WOW_TRIVIA_ANSWERS1[815] = "Illidari Council";
 WOW_TRIVIA_QUESTIONS[816] = "Quote: Behold the flames of Azzinoth!";
 WOW_TRIVIA_ANSWERS1[816] = "Illidan Stormrage";
 
-WOW_TRIVIA_QUESTIONS[817] = "Naxxramas will become a 25man in the expansion. (True/False)?";
-WOW_TRIVIA_ANSWERS1[817] = "true";
+WOW_TRIVIA_QUESTIONS[817] = "Naxxramas scales down to 25 man. (True/False)?";
+WOW_TRIVIA_ANSWERS1[817] = "false";
 
 WOW_TRIVIA_QUESTIONS[818] = "The nerubian spiderlords are followers of the __________ in Northrend.";
 WOW_TRIVIA_ANSWERS1[818] = "Old Gods";
