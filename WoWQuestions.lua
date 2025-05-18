@@ -18,15 +18,15 @@ WOW_TRIVIA_ANSWERS2[2] = "thirtyfive";
 WOW_TRIVIA_ANSWERS3[2] = "thirty five";
 
 WOW_TRIVIA_QUESTIONS[3] = "Which class can cast 'blessings'?";
-WOW_TRIVIA_ANSWERS1[3] = "Paladins";
-WOW_TRIVIA_ANSWERS2[3] = "Paladin";
+WOW_TRIVIA_ANSWERS1[3] = "Paladin";
+WOW_TRIVIA_ANSWERS2[3] = "Pally";
 
 WOW_TRIVIA_QUESTIONS[4] = "What is the zone north of Blasted Lands called? (full name)";
 WOW_TRIVIA_ANSWERS1[4] = "Swamp of Sorrows";
 
 WOW_TRIVIA_QUESTIONS[5] = "What is the busiest Alliance city?";
-WOW_TRIVIA_ANSWERS1[5] = "Ironforge";
-WOW_TRIVIA_ANSWERS2[5] = "IF";
+WOW_TRIVIA_ANSWERS1[5] = "Stormwind";
+WOW_TRIVIA_ANSWERS2[5] = "SW";
 
 WOW_TRIVIA_QUESTIONS[6] = "In which instance does General Drakkisath reside?";
 WOW_TRIVIA_ANSWERS1[6] = "UBRS";
@@ -75,10 +75,15 @@ WOW_TRIVIA_QUESTIONS[16] = "What does a green-colored text on an item refer to?"
 WOW_TRIVIA_ANSWERS1[16] = "Uncommon Quality";
 WOW_TRIVIA_ANSWERS2[16] = "uncommon";
 
-WOW_TRIVIA_QUESTIONS[17] = "Which of these pre-tbc end-game raiding instances is limited to 20 members? (UBRS, MC, AQ40, ZG, BWL";
-WOW_TRIVIA_ANSWERS1[17] = "Zul'Gurub";
-WOW_TRIVIA_ANSWERS2[17] = "ZG";
-WOW_TRIVIA_ANSWERS3[17] = "Zul Gurub";
+WOW_TRIVIA_QUESTIONS[17] = "When (month and year) did TurtleWow officialy launch?";
+WOW_TRIVIA_ANSWERS1[17] = "October 2018";
+WOW_TRIVIA_ANSWERS2[17] = "10 2018";
+WOW_TRIVIA_ANSWERS3[17] = "2018 October";
+WOW_TRIVIA_ANSWERS4[17] = "2018 Oct";
+WOW_TRIVIA_ANSWERS5[17] = "Oct 2018";
+WOW_TRIVIA_ANSWERS6[17] = "Oct, 2018";
+WOW_TRIVIA_ANSWERS7[17] = "Oct '18";
+WOW_TRIVIA_ANSWERS8[17] = "10 18";
 
 WOW_TRIVIA_QUESTIONS[18] = "What is the lowest level requirement for an epic weapon?";
 WOW_TRIVIA_ANSWERS1[18] = "35";
@@ -91,6 +96,7 @@ WOW_TRIVIA_ANSWERS2[19] = "Shammy";
 WOW_TRIVIA_QUESTIONS[20] = "What is the tier 2 Priest set called?";
 WOW_TRIVIA_ANSWERS1[20] = "Vestments of Transcendence";
 WOW_TRIVIA_ANSWERS2[20] = "Transcendence";
+WOW_TRIVIA_ANSWERS3[20] = 'Regalia of Transcendence";
 
 WOW_TRIVIA_QUESTIONS[21] = "The Barrens was once a great forest under the protection of the Kaldorei's. (True/False)?";
 WOW_TRIVIA_ANSWERS1[21] = "True";
@@ -109,9 +115,9 @@ WOW_TRIVIA_ANSWERS2[24] = "Tirisfal";
 WOW_TRIVIA_QUESTIONS[25] = "Lethtendris in Dire Maul is what race?";
 WOW_TRIVIA_ANSWERS1[25] = "Blood Elf";
 
-WOW_TRIVIA_QUESTIONS[26] = "Which of these classes cannot duel-wield? (Warrior, Paladin, Rogue)";
-WOW_TRIVIA_ANSWERS1[26] = "Paladins";
-WOW_TRIVIA_ANSWERS2[26] = "Paladin";
+WOW_TRIVIA_QUESTIONS[26] = "Which of these classes cannot duel-wield? (Warrior, Shaman, Rogue)";
+WOW_TRIVIA_ANSWERS1[26] = "Shaman";
+WOW_TRIVIA_ANSWERS2[26] = "Shamans";
 
 WOW_TRIVIA_QUESTIONS[27] = "In which major city can the NPC Renzik 'The Shiv' be found?";
 WOW_TRIVIA_ANSWERS1[27] = "Stormwind";
@@ -156,6 +162,7 @@ WOW_TRIVIA_QUESTIONS[37] = "Name a secondary trade skill.";
 WOW_TRIVIA_ANSWERS1[37] = "First Aid";
 WOW_TRIVIA_ANSWERS2[37] = "Fishing";
 WOW_TRIVIA_ANSWERS3[37] = "Cooking";
+WOW_TRIVIA_ANSWERS4[37] = "Survival";
 
 WOW_TRIVIA_QUESTIONS[38] = "How much reputation does it take to get from revered to exalted?";
 WOW_TRIVIA_ANSWERS1[38] = "21000";
@@ -209,7 +216,7 @@ WOW_TRIVIA_QUESTIONS[50] = "By how much does a Priest's Inner Focus spell increa
 WOW_TRIVIA_ANSWERS1[50] = "25%";
 WOW_TRIVIA_ANSWERS2[50] = "25";
 
-WOW_TRIVIA_QUESTIONS[51] = "Which class has a talent tree called 'protection'?";
+WOW_TRIVIA_QUESTIONS[51] = "Which class has a talent tree called 'ARMS'?";
 WOW_TRIVIA_ANSWERS1[51] = "Warriors";
 WOW_TRIVIA_ANSWERS2[51] = "Warrior";
 
@@ -293,8 +300,8 @@ WOW_TRIVIA_ANSWERS2[70] = "Stranglethorn Vale";
 WOW_TRIVIA_QUESTIONS[71] = "Guess The Zone: Has volcanic terrain, and 'The Cauldron'.";
 WOW_TRIVIA_ANSWERS1[71] = "Searing Gorge";
 
-WOW_TRIVIA_QUESTIONS[72] = "Guess The Zone: A Tropical Zone, which has a dark portal, and a mountain you can parachute off.";
-WOW_TRIVIA_ANSWERS1[72] = "Feralas";
+WOW_TRIVIA_QUESTIONS[2] = "At what Survival skill level is it possible to make tents?";
+WOW_TRIVIA_ANSWERS1[2] = "50";
 
 WOW_TRIVIA_QUESTIONS[73] = "Guess The Zone: A Diseased wooded zone with special plants.";
 WOW_TRIVIA_ANSWERS1[73] = "Felwood";
@@ -323,9 +330,9 @@ WOW_TRIVIA_ANSWERS1[79] = "48 hours";
 WOW_TRIVIA_ANSWERS2[79] = "2 days";
 WOW_TRIVIA_ANSWERS3[79] = "two days";
 
-WOW_TRIVIA_QUESTIONS[80] = "How many primary and secondary professions are there all together?";
-WOW_TRIVIA_ANSWERS1[80] = "Fourteen";
-WOW_TRIVIA_ANSWERS2[80] = "14";
+WOW_TRIVIA_QUESTIONS[80] = "How many primary professions are there in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[80] = "10";
+WOW_TRIVIA_ANSWERS2[80] = "ten";
 
 WOW_TRIVIA_QUESTIONS[81] = "How many copper bars are required to make 1x copper chain pants?";
 WOW_TRIVIA_ANSWERS1[81] = "Four";
@@ -335,18 +342,23 @@ WOW_TRIVIA_QUESTIONS[82] = "How much does a linen bandage heal for (per second)?
 WOW_TRIVIA_ANSWERS1[82] = "Eleven";
 WOW_TRIVIA_ANSWERS2[82] = "11";
 
-WOW_TRIVIA_QUESTIONS[83] = "What is the only class totally devoid of healing effects?";
-WOW_TRIVIA_ANSWERS1[83] = "Mage";
-WOW_TRIVIA_ANSWERS2[83] = "Mages";
+WOW_TRIVIA_QUESTIONS[83] = "Which world boss drops Sealed Diablo II Lord of Destruction Collectors Edition";
+WOW_TRIVIA_ANSWERS1[83] = "Moo";
+WOW_TRIVIA_ANSWERS2[83] = "Cow King";
+WOW_TRIVIA_ANSWERS2[83] = "The Cow King":
 
-WOW_TRIVIA_QUESTIONS[84] = "Which Horde races cannot be a Shaman?";
-WOW_TRIVIA_ANSWERS1[84] = "Undeads and Blood Elves";
-WOW_TRIVIA_ANSWERS2[84] = "Blood Elves and Undeads";
+WOW_TRIVIA_QUESTIONS[84] = "Which Horde races cannot be a Shaman? (name one)";
+WOW_TRIVIA_ANSWERS1[84] = "Undeads";
+WOW_TRIVIA_ANSWERS2[84] = "Undead";
+WOW_TRIVIA_ANSWERS3[84] = "Goblins";
+WOW_TRIVIA_ANSWERS4[84] = "Goblin";
 
 WOW_TRIVIA_QUESTIONS[85] = "The Valley Of Trials is the starting area for which races (name at least one)?";
 WOW_TRIVIA_ANSWERS1[85] = "Orcs and Trolls";
 WOW_TRIVIA_ANSWERS2[85] = "Orcs";
 WOW_TRIVIA_ANSWERS3[85] = "Trolls";
+WOW_TRIVIA_ANSWERS4[85] = "Orc";
+WOW_TRIVIA_ANSWERS5[85] = "Troll";
 
 WOW_TRIVIA_QUESTIONS[86] = "How many weapon types are there (like one-handed sword, two-handed sword, dagger etc.)?";
 WOW_TRIVIA_ANSWERS1[86] = "Sixteen";
@@ -357,15 +369,16 @@ WOW_TRIVIA_ANSWERS1[87] = "Un'Goro Crater";
 WOW_TRIVIA_ANSWERS2[87] = "Un'Goro";
 WOW_TRIVIA_ANSWERS3[87] = "UnGoro";
 
-WOW_TRIVIA_QUESTIONS[88] = "How many combinations of races(8) and classes(9) can be made?";
-WOW_TRIVIA_ANSWERS1[88] = "Forty";
-WOW_TRIVIA_ANSWERS2[88] = "40";
+WOW_TRIVIA_QUESTIONS[88] = "How many combinations of races(8) and classes(9) can be made in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[88] = "fifty-seven";
+WOW_TRIVIA_ANSWERS2[88] = "57";
+WOW_TRIVIA_ANSWERS3[88] = "fifty seven"
 
 WOW_TRIVIA_QUESTIONS[89] = "What continent in Azeroth has two Horde capital cities?";
 WOW_TRIVIA_ANSWERS1[89] = "Kalimdor";
 
-WOW_TRIVIA_QUESTIONS[90] = "Attempting to swim the Great Sea will ultimatly lead to death by _____?";
-WOW_TRIVIA_ANSWERS1[90] = "Fatigue";
+WOW_TRIVIA_QUESTIONS[90] = "What is the name of a giant wolf who terrorized the Winter Veil Vale?";
+WOW_TRIVIA_ANSWERS1[90] = "Snowball";
 
 WOW_TRIVIA_QUESTIONS[91] = "Name one of the continents in Azeroth that actually is ingame and accessible?";
 WOW_TRIVIA_ANSWERS1[91] = "Eastern Kingdoms";
@@ -437,11 +450,15 @@ WOW_TRIVIA_QUESTIONS[108] = "What is the duration on Prayer of Shadow Protection
 WOW_TRIVIA_ANSWERS1[108] = "20 Minutes";
 WOW_TRIVIA_ANSWERS2[108] = "20 min";
 WOW_TRIVIA_ANSWERS3[108] = "20 mins";
+WOW_TRIVIA_ANSWERS4[108] = "20min";
+WOW_TRIVIA_ANSWERS5[108] = "20mins";
 
-WOW_TRIVIA_QUESTIONS[109] = "How many tracks is there in The Burning Crusade soundtrack?";
-WOW_TRIVIA_ANSWERS1[109] = "22";
-WOW_TRIVIA_ANSWERS2[109] = "twenty two";
-WOW_TRIVIA_ANSWERS3[109] = "twenty-two";
+WOW_TRIVIA_QUESTIONS[109] = "Name one of the TurtleWow's unique playable races";
+WOW_TRIVIA_ANSWERS1[109] = "High Elves";
+WOW_TRIVIA_ANSWERS2[109] = "Goblins";
+WOW_TRIVIA_ANSWERS3[109] = "High Elf";
+WOW_TRIVIA_ANSWERS4[109] = "Goblin";
+
 
 WOW_TRIVIA_QUESTIONS[110] = "The Bramblewood set grants resistance to what?";
 WOW_TRIVIA_ANSWERS1[110] = "Nature";
@@ -465,6 +482,7 @@ WOW_TRIVIA_ANSWERS2[114] = "cat";
 
 WOW_TRIVIA_QUESTIONS[115] = "What is the Rogue's tier 3 called?";
 WOW_TRIVIA_ANSWERS1[115] = "Boneschyte Armor";
+WOW_TRIVIA_ANSWERS2[115] = "Boneschyte";
 
 WOW_TRIVIA_QUESTIONS[116] = "To get a pet chicken (Chicken Egg) players must complete which quest?";
 WOW_TRIVIA_ANSWERS1[116] = "CLUCK!";
@@ -495,20 +513,23 @@ WOW_TRIVIA_QUESTIONS[122] = "How many people does it take to perform a Ritual of
 WOW_TRIVIA_ANSWERS1[122] = "Three";
 WOW_TRIVIA_ANSWERS2[122] = "3";
 
-WOW_TRIVIA_QUESTIONS[123] = "In which patch was the honor system implemented?";
-WOW_TRIVIA_ANSWERS1[123] = "1.4";
+WOW_TRIVIA_QUESTIONS[123] = "In which patch were High Elves and Golbins introduced to Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[123] = "1.15";
+WOW_TRIVIA_ANSWERS2[123] = "1.15.0";
 
-WOW_TRIVIA_QUESTIONS[124] = "In which patch were the first battlegrounds added?";
-WOW_TRIVIA_ANSWERS1[124] = "1.5";
+WOW_TRIVIA_QUESTIONS[124] = "In which patch was Karazhan Crypt dungeon added to Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[124] = "1.16";
+WOW_TRIVIA_ANSWERS1[124] = "1.16.0";
 
-WOW_TRIVIA_QUESTIONS[125] = "In which patch were weather effects implemented?";
-WOW_TRIVIA_ANSWERS1[125] = "1.10";
+WOW_TRIVIA_QUESTIONS[125] = "In which patch was Gilneas implemented in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[125] = "1.17";
+WOW_TRIVIA_ANSWERS2[125] = "1.17.0";
 
-WOW_TRIVIA_QUESTIONS[126] = "In which patch was the Druid talent review?";
-WOW_TRIVIA_ANSWERS1[126] = "1.8";
+WOW_TRIVIA_QUESTIONS[126] = "In which patch was the new zone Thalassian Highlands added to Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[126] = "1.17.1";
 
-WOW_TRIVIA_QUESTIONS[127] = "In which patch was the Mage talent review?";
-WOW_TRIVIA_ANSWERS1[127] = "1.11";
+WOW_TRIVIA_QUESTIONS[127] = "In which patch was the new raid The Tower of Karazhan added to Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[127] = "1.17.2";
 
 WOW_TRIVIA_QUESTIONS[128] = "Which class(es) has a restoration talent tree? (name both or one of them)";
 WOW_TRIVIA_ANSWERS1[128] = "Druid";
@@ -527,10 +548,9 @@ WOW_TRIVIA_QUESTIONS[130] = "Which racial skill breaks fear effects?";
 WOW_TRIVIA_ANSWERS1[130] = "Will of the Forsaken";
 WOW_TRIVIA_ANSWERS2[130] = "wotf";
 
-WOW_TRIVIA_QUESTIONS[131] = "What are Mages also known as (especially before a raid)?";
-WOW_TRIVIA_ANSWERS1[131] = "Vending Machine";
-WOW_TRIVIA_ANSWERS2[131] = "vendor";
-WOW_TRIVIA_ANSWERS3[131] = "water vendor";
+WOW_TRIVIA_QUESTIONS[131] = "Name the TurtleWow world boss that resides in southeren Tanaris";
+WOW_TRIVIA_ANSWERS1[131] = "Ostarius of Uldum";
+WOW_TRIVIA_ANSWERS2[131] = "Ostarius";
 
 WOW_TRIVIA_QUESTIONS[132] = "What is the duration of a Rogue's 5 point kidney shot? (__ sec)";
 WOW_TRIVIA_ANSWERS1[132] = "6 seconds";
@@ -539,11 +559,10 @@ WOW_TRIVIA_ANSWERS3[132] = "6 sec";
 WOW_TRIVIA_ANSWERS4[132] = "6";
 WOW_TRIVIA_ANSWERS5[132] = "six";
 
-WOW_TRIVIA_QUESTIONS[133] = "What is the hardest race to target in a Battleground?";
-WOW_TRIVIA_ANSWERS1[133] = "Gnome";
-WOW_TRIVIA_ANSWERS2[133] = "Gnomes";
+WOW_TRIVIA_QUESTIONS[133] = "What is the name of the new alliance town in Swamp of Sorrows?";
+WOW_TRIVIA_ANSWERS1[133] = "Sorrowguard Keep";
 
-WOW_TRIVIA_QUESTIONS[134] = "What color does a Rogue have on CT_Raid?";
+WOW_TRIVIA_QUESTIONS[134] = "What color does a Rogue have on raid frame?";
 WOW_TRIVIA_ANSWERS1[134] = "Yellow";
 
 WOW_TRIVIA_QUESTIONS[135] = "How many parts does the Temple of Ahn'Qiraj sets have? (hint: Tier 2.5)";
@@ -567,8 +586,8 @@ WOW_TRIVIA_ANSWERS1[139] = "Heart of Hakkar";
 WOW_TRIVIA_QUESTIONS[140] = "What level of reputation with Argent Dawn is needed in order to attune to Naxxramas?";
 WOW_TRIVIA_ANSWERS1[140] = "Honored";
 
-WOW_TRIVIA_QUESTIONS[141] = "What herb is required for all the Greater Protection potions?";
-WOW_TRIVIA_ANSWERS1[141] = "Dreamfoil";
+TURTLE_TRIVIA_QUESTIONS[12] = "What is the name of the new forsaken town in Tirisfal Uplands";
+TURTLE_TRIVIA_ANSWERS1[12] = "Glenshire";
 
 WOW_TRIVIA_QUESTIONS[142] = "Which instance is located in Silverpine Forest?";
 WOW_TRIVIA_ANSWERS1[142] = "Shadowfang Keep";
@@ -589,16 +608,18 @@ WOW_TRIVIA_ANSWERS1[145] = "Thaddius";
 WOW_TRIVIA_QUESTIONS[146] = "Who drops the Hunter book 'Tranquilizing shot'?";
 WOW_TRIVIA_ANSWERS1[146] = "Lucifron";
 
-WOW_TRIVIA_QUESTIONS[147] = "Which class is considered the 'purest' of the healing classes?";
-WOW_TRIVIA_ANSWERS1[147] = "Priest";
+WOW_TRIVIA_QUESTIONS[147] = "Where in Durotar, did the Labor Union goblins settle?";
+WOW_TRIVIA_ANSWERS1[147] = "Sparkwater port";
+WOW_TRIVIA_ANSWERS2[147] = "Sparkwater";
+
 
 WOW_TRIVIA_QUESTIONS[148] = "How many tracks does the world of warcraft soundtrack have?";
 WOW_TRIVIA_ANSWERS1[148] = "30";
 WOW_TRIVIA_ANSWERS2[148] = "thirty";
 
-WOW_TRIVIA_QUESTIONS[149] = "How much rage does the improved berserker rage talent (2/2) generate?";
-WOW_TRIVIA_ANSWERS1[149] = "10";
-WOW_TRIVIA_ANSWERS2[149] = "ten";
+WOW_TRIVIA_QUESTIONS[149] = "Which guild has the most master gamers?";
+WOW_TRIVIA_ANSWERS1[149] = "Hard Knocks Society";
+WOW_TRIVIA_ANSWERS2[149] = "HKS";
 
 WOW_TRIVIA_QUESTIONS[150] = "How long does the unimproved Shield Wall last? ( ___ sec)";
 WOW_TRIVIA_ANSWERS1[150] = "10 seconds";
@@ -608,13 +629,13 @@ WOW_TRIVIA_ANSWERS4[150] = "ten secs";
 WOW_TRIVIA_ANSWERS5[150] = "ten sec";
 WOW_TRIVIA_ANSWERS6[150] = "10 sec";
 
-WOW_TRIVIA_QUESTIONS[151] = "What tier is the Improved Berserker Stance talent on, as a Warrior, in the fury talent tree?";
-WOW_TRIVIA_ANSWERS1[151] = "8";
-WOW_TRIVIA_ANSWERS2[151] = "eight";
+WOW_TRIVIA_QUESTIONS[151] = "Name the Mage ability that can open locked boxes";
+WOW_TRIVIA_ANSWERS1[151] = "Khadgar's Unlocking";
+WOW_TRIVIA_ANSWERS2[151] = "Khadgars Unlocking";
 
-WOW_TRIVIA_QUESTIONS[152] = "How much damage does each point of rage convert into on the last rank of Execute?";
-WOW_TRIVIA_ANSWERS1[152] = "18";
-WOW_TRIVIA_ANSWERS2[152] = "eighteen";
+WOW_TRIVIA_QUESTIONS[152] = "How much % mount speed Carrot on a Stick increases?";
+WOW_TRIVIA_ANSWERS1[152] = "3";
+WOW_TRIVIA_ANSWERS2[152] = "3%";
 
 WOW_TRIVIA_QUESTIONS[153] = "Switching Stances constantly as a Warrior is called?";
 WOW_TRIVIA_ANSWERS1[153] = "stance dance";
@@ -623,8 +644,8 @@ WOW_TRIVIA_ANSWERS3[153] = "stance-dancing";
 WOW_TRIVIA_ANSWERS4[153] = "stance-dance";
 
 WOW_TRIVIA_QUESTIONS[154] = "The last rank of Sunder Armor reduces armor by how much?";
-WOW_TRIVIA_ANSWERS1[154] = "520";
-WOW_TRIVIA_ANSWERS2[154] = "Five hundred twenty";
+WOW_TRIVIA_ANSWERS1[154] = "450";
+WOW_TRIVIA_ANSWERS2[154] = "Four hundred Fifty";
 
 WOW_TRIVIA_QUESTIONS[155] = "Piercing Howl reduces the movement speed of enemies by what percentage?";
 WOW_TRIVIA_ANSWERS1[155] = "50%";
@@ -638,9 +659,9 @@ WOW_TRIVIA_ANSWERS2[156] = "dodges";
 WOW_TRIVIA_QUESTIONS[157] = "The talent Blood Craze can be found in which talent tree?";
 WOW_TRIVIA_ANSWERS1[157] = "Fury";
 
-WOW_TRIVIA_QUESTIONS[158] = "Rend (Rank 8) causes ___ damage over 21 secs.";
-WOW_TRIVIA_ANSWERS1[158] = "182";
-WOW_TRIVIA_ANSWERS2[158] = "One hundred eighty two";
+WOW_TRIVIA_QUESTIONS[158] = "2/2 Improved Overpower inscreases the critical strike chance of Overpower by __%?";
+WOW_TRIVIA_ANSWERS1[158] = "50%";
+WOW_TRIVIA_ANSWERS2[158] = "50";
 
 WOW_TRIVIA_QUESTIONS[159] = "Which Warrior ability reduces healing effects by 50%?";
 WOW_TRIVIA_ANSWERS1[159] = "Mortal Strike";
@@ -655,10 +676,8 @@ WOW_TRIVIA_QUESTIONS[161] = "How much spell damage does the Zandalarian Hero Cha
 WOW_TRIVIA_ANSWERS1[161] = "204";
 WOW_TRIVIA_ANSWERS2[161] = "two hundred four";
 
-WOW_TRIVIA_QUESTIONS[162] = "Which races can use a Mechanostrider Mount? (x and y)";
-WOW_TRIVIA_ANSWERS1[162] = "dwarves and Gnomes";
-WOW_TRIVIA_ANSWERS2[162] = "Dwarf and Gnome";
-WOW_TRIVIA_ANSWERS3[162] = "Gnomes and dwarves";
+WOW_TRIVIA_QUESTIONS[162] = "Whose wife lost in battle?";
+WOW_TRIVIA_ANSWERS1[162] = "Mankrik";
 
 WOW_TRIVIA_QUESTIONS[163] = "How long cooldown does the Zandalarian Hero Charm have?";
 WOW_TRIVIA_ANSWERS1[163] = "2 minutes";
@@ -676,13 +695,13 @@ WOW_TRIVIA_ANSWERS2[164] = "45 sec";
 WOW_TRIVIA_ANSWERS3[164] = "45";
 WOW_TRIVIA_ANSWERS4[164] = "45 secs";
 
-WOW_TRIVIA_QUESTIONS[165] = "What is Mages with talents mainly in Frost and Fire called?";
-WOW_TRIVIA_ANSWERS1[165] = "Elemental";
-WOW_TRIVIA_ANSWERS2[165] = "Elemental Mages";
+WOW_TRIVIA_QUESTIONS[165] = "What fruit is consumed the most in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[165] = "Orange";
+WOW_TRIVIA_ANSWERS2[165] = "oranges";
 
-WOW_TRIVIA_QUESTIONS[166] = "What two things can a Mage polymorph his foe into, besides a sheep? (x and y)";
-WOW_TRIVIA_ANSWERS1[166] = "Pig and Turtle";
-WOW_TRIVIA_ANSWERS2[166] = "Turtle and Pig";
+WOW_TRIVIA_QUESTIONS[166] = "Who is the best GM?";
+WOW_TRIVIA_ANSWERS1[166] = "Cherrypie";
+WOW_TRIVIA_ANSWERS2[166] = "Cherry Pie";
 
 WOW_TRIVIA_QUESTIONS[167] = "Which boss drops Ashkandi, greatsword of the Brotherhood?";
 WOW_TRIVIA_ANSWERS1[167] = "Nefarian";
@@ -703,13 +722,13 @@ WOW_TRIVIA_ANSWERS2[170] = "forty";
 WOW_TRIVIA_QUESTIONS[171] = "Who can teach you how to use one handed swords in Stormwind?";
 WOW_TRIVIA_ANSWERS1[171] = "Wu Ping";
 
-WOW_TRIVIA_QUESTIONS[172] = "Curse of agony ticks every ___ seconds?";
-WOW_TRIVIA_ANSWERS1[172] = "Two";
-WOW_TRIVIA_ANSWERS2[172] = "2";
+WOW_TRIVIA_QUESTIONS[172] = "Which boss you can find under Stromwind?";
+WOW_TRIVIA_ANSWERS1[172] = "Baron Rivendare";
+WOW_TRIVIA_ANSWERS2[172] = "Rivendare";
 
 WOW_TRIVIA_QUESTIONS[173] = "Curse of doom ticks for how much base damage?";
-WOW_TRIVIA_ANSWERS1[173] = "4200";
-WOW_TRIVIA_ANSWERS2[173] = "four thousand two hundred";
+WOW_TRIVIA_ANSWERS1[173] = "3200";
+WOW_TRIVIA_ANSWERS2[173] = "three thousand two hundred";
 
 WOW_TRIVIA_QUESTIONS[174] = "How many statues is there outside Stormwind?";
 WOW_TRIVIA_ANSWERS1[174] = "6";
