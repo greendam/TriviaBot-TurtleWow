@@ -145,7 +145,7 @@ WOW_TRIVIA_ANSWERS2[32] = "bronzebeard";
 
 WOW_TRIVIA_QUESTIONS[33] = "Using the Seal of Ascension in UBRS summons which Dragon?";
 WOW_TRIVIA_ANSWERS1[33] = "Vaelastrasz";
-WOW_TRIVIA_ANSWERS1[33] = "Vaelastrasz the Red";
+WOW_TRIVIA_ANSWERS2[33] = "Vaelastrasz the Red";
 
 WOW_TRIVIA_QUESTIONS[34] = "Which enchanting dust is the highest ingame at the moment?";
 WOW_TRIVIA_ANSWERS1[34] = "Illusion";
@@ -345,7 +345,7 @@ WOW_TRIVIA_ANSWERS2[82] = "11";
 WOW_TRIVIA_QUESTIONS[83] = "Which world boss drops Sealed Diablo II Lord of Destruction Collectors Edition";
 WOW_TRIVIA_ANSWERS1[83] = "Moo";
 WOW_TRIVIA_ANSWERS2[83] = "Cow King";
-WOW_TRIVIA_ANSWERS2[83] = "The Cow King":
+WOW_TRIVIA_ANSWERS3[83] = "The Cow King":
 
 WOW_TRIVIA_QUESTIONS[84] = "Which Horde races cannot be a Shaman? (name one)";
 WOW_TRIVIA_ANSWERS1[84] = "Undeads";
@@ -548,7 +548,7 @@ WOW_TRIVIA_QUESTIONS[130] = "Which racial skill breaks fear effects?";
 WOW_TRIVIA_ANSWERS1[130] = "Will of the Forsaken";
 WOW_TRIVIA_ANSWERS2[130] = "wotf";
 
-WOW_TRIVIA_QUESTIONS[131] = "Name the TurtleWow world boss that resides in southeren Tanaris";
+WOW_TRIVIA_QUESTIONS[131] = "Name the TurtleWow world boss that resides in southern Tanaris";
 WOW_TRIVIA_ANSWERS1[131] = "Ostarius of Uldum";
 WOW_TRIVIA_ANSWERS2[131] = "Ostarius";
 
@@ -741,9 +741,8 @@ WOW_TRIVIA_ANSWERS2[175] = "SW";
 WOW_TRIVIA_QUESTIONS[176] = "Where is the Valley of Kings?";
 WOW_TRIVIA_ANSWERS1[176] = "Loch Modan";
 
-WOW_TRIVIA_QUESTIONS[177] = "/moon tells you the current location of Darkmoon Faire, true or false?";
+WOW_TRIVIA_QUESTIONS[177] = "Type /moon tells you the current location of Darkmoon Faire, true or false?";
 WOW_TRIVIA_ANSWERS1[177] = "false";
-WOW_TRIVIA_ANSWERS2[177] = "F";
 
 WOW_TRIVIA_QUESTIONS[178] = "Which title you receive by collection all cats in game?";
 WOW_TRIVIA_ANSWERS1[178] = "Crazy Cat Lady";
@@ -810,7 +809,7 @@ WOW_TRIVIA_ANSWERS1[194] = "red";
 
 WOW_TRIVIA_QUESTIONS[195] = "What's the spell power coefficient of Holy Light(Rank 1)?";
 WOW_TRIVIA_ANSWERS1[195] = "33%";
-WOW_TRIVIA_ANSWERS1[195] = "0.33";
+WOW_TRIVIA_ANSWERS2[195] = "0.33";
 
 WOW_TRIVIA_QUESTIONS[196] = "Where does the boat take you to from Stormwind Harbor?";
 WOW_TRIVIA_ANSWERS1[196] = "Auberdine";
@@ -1135,7 +1134,7 @@ WOW_TRIVIA_ANSWERS1[275] = "Icebane";
 
 WOW_TRIVIA_QUESTIONS[276] = "Ambassador ______ is the Scourge Ambassador to Razorfen Downs.";
 WOW_TRIVIA_ANSWERS1[276] = "Malcin";
-WOW_TRIVIA_ANSWERS1[276] = "Ambassador Malcin";
+WOW_TRIVIA_ANSWERS2[276] = "Ambassador Malcin";
 
 WOW_TRIVIA_QUESTIONS[277] = "What is the full name of the last boss in The Deadmines?";
 WOW_TRIVIA_ANSWERS1[277] = "Edwin Van Cleef";
@@ -1244,8 +1243,13 @@ WOW_TRIVIA_ANSWERS1[305] = "300";
 WOW_TRIVIA_QUESTIONS[306] = "Where is Caverns of Time?";
 WOW_TRIVIA_ANSWERS1[306] = "Tanaris";
 
-WOW_TRIVIA_QUESTIONS[307] = "What is the name of the zone where you protect Medivith? Its future name is the Blasted Lands.";
-WOW_TRIVIA_ANSWERS1[307] = "Black Morass";
+WOW_TRIVIA_QUESTIONS[307] = "Name one beast type exists in STV but not in ZG";
+WOW_TRIVIA_ANSWERS1[307] = "Gorrilla";
+WOW_TRIVIA_ANSWERS2[307] = "Gorrillas";
+WOW_TRIVIA_ANSWERS3[307] = "Crab";
+WOW_TRIVIA_ANSWERS4[307] = "Crabs";
+WOW_TRIVIA_ANSWERS5[307] = "Basilisk";
+WOW_TRIVIA_ANSWERS6[307] = "Basilisks";
 
 WOW_TRIVIA_QUESTIONS[308] = "In what zone is Molten Core?";
 WOW_TRIVIA_ANSWERS1[308] = "Searing Gorge";
@@ -1259,36 +1263,39 @@ WOW_TRIVIA_QUESTIONS[310] = "In what zone is Naxxramas?";
 WOW_TRIVIA_ANSWERS1[310] = "Eastern Plaguelands";
 WOW_TRIVIA_ANSWERS2[310] = "EPL";
 
-WOW_TRIVIA_QUESTIONS[311] = "What was the patch that came out before the expansion (tbc) called?";
-WOW_TRIVIA_ANSWERS1[311] = "Before the Storm";
+WOW_TRIVIA_QUESTIONS[311] = "Type 'moo' in World chat would summon what?";
+WOW_TRIVIA_ANSWERS1[311] = "GM";
+WOW_TRIVIA_ANSWERS2[311] = "Gamemaster";
 
-WOW_TRIVIA_QUESTIONS[312] = "What is the name of the populare auctioning addon?";
-WOW_TRIVIA_ANSWERS1[312] = "Auctioneer";
+WOW_TRIVIA_QUESTIONS[312] = "Name one beast type exists in ZG but not in STV";
+WOW_TRIVIA_ANSWERS1[312] = "Spider";
+WOW_TRIVIA_ANSWERS3[312] = "Wind Serpent";
+WOW_TRIVIA_ANSWERS4[312] = "Serpent";
+WOW_TRIVIA_ANSWERS5[312] = "Bat";
+WOW_TRIVIA_ANSWERS6[312] = "Snake";
+WOW_TRIVIA_ANSWERS7[312] = "Hydra";
 
-WOW_TRIVIA_QUESTIONS[313] = "In the expansion, some of the heroic dungeons will offer new content, instead of just being harder. Such as new ______ and new areas. This is only for some of the new instances, though. The old heroic instances wont get this.";
-WOW_TRIVIA_ANSWERS1[313] = "bosses";
+WOW_TRIVIA_QUESTIONS[313] = "What is the Goblins mount called?";
+WOW_TRIVIA_ANSWERS1[313] = "Rocket Car";
 
-WOW_TRIVIA_QUESTIONS[314] = "What mob-type is the realm Daggerspine named after?";
-WOW_TRIVIA_ANSWERS1[314] = "naga";
-WOW_TRIVIA_ANSWERS2[314] = "nagas";
+WOW_TRIVIA_QUESTIONS[314] = "Which profession can craft Goblin Rocket Fuel?";
+WOW_TRIVIA_ANSWERS1[314] = "Alchemy";
 
-WOW_TRIVIA_QUESTIONS[315] = "What is the blood elves mount called?";
-WOW_TRIVIA_ANSWERS1[315] = "Hawkstrider";
+WOW_TRIVIA_QUESTIONS[315] = "What is the high elves mount called?";
+WOW_TRIVIA_ANSWERS1[315] = "Thalassian Unicorn";
+WOW_TRIVIA_ANSWERS2[315] = "Unicorn";
 
-WOW_TRIVIA_QUESTIONS[316] = "What guild is infamous for its raiding achievments, such as world first C'thun and Kel'Thuzad kill?";
-WOW_TRIVIA_ANSWERS1[316] = "Nihilum";
+WOW_TRIVIA_QUESTIONS[316] = "What animal the NPC 'Lady' is in Arathi Basin?";
+WOW_TRIVIA_ANSWERS1[316] = "dog";
 
-WOW_TRIVIA_QUESTIONS[317] = "What guild is considered to be the 'best' raiding guild in terms of first kills and that sort of things, on the US servers?";
-WOW_TRIVIA_ANSWERS1[317] = "DT";
-WOW_TRIVIA_ANSWERS2[317] = "Death & Taxes";
-WOW_TRIVIA_ANSWERS3[317] = "Death and Taxes";
+WOW_TRIVIA_QUESTIONS[317] = "How many NPC in Turtle WOW has 'Princess' in their name?";
+WOW_TRIVIA_ANSWERS1[317] = "8";
 
-WOW_TRIVIA_QUESTIONS[318] = "What mob type is the realm Bloodfeather named after?";
-WOW_TRIVIA_ANSWERS1[318] = "Harpies";
-WOW_TRIVIA_ANSWERS2[318] = "Harpy";
+WOW_TRIVIA_QUESTIONS[318] = "What is the level of the highest level critter in game?";
+WOW_TRIVIA_ANSWERS1[318] = "61";
 
-WOW_TRIVIA_QUESTIONS[319] = "Al'Akir is a _________. (The race)";
-WOW_TRIVIA_ANSWERS1[319] = "Elemental";
+WOW_TRIVIA_QUESTIONS[319] = "What's the name of the famous lvl 39 twink weapon with a 4.0 weapon speed?";
+WOW_TRIVIA_ANSWERS1[319] = "Pendulum of Doom";
 
 WOW_TRIVIA_QUESTIONS[320] = "Aszune was a woman that was turned into a statue of living stone by the Oracle. What race was she?";
 WOW_TRIVIA_ANSWERS1[320] = "night elf";
@@ -1298,8 +1305,9 @@ WOW_TRIVIA_QUESTIONS[321] = "What is the nathrezim race also known as?";
 WOW_TRIVIA_ANSWERS1[321] = "Dreadlord";
 WOW_TRIVIA_ANSWERS2[321] = "Dreadlords";
 
-WOW_TRIVIA_QUESTIONS[322] = "What is Bladefist's first name?";
-WOW_TRIVIA_ANSWERS1[322] = "Kargath";
+WOW_TRIVIA_QUESTIONS[322] = "Who drops Briarwood Reed?";
+WOW_TRIVIA_ANSWERS1[322] = "Jed";
+WOW_TRIVIA_ANSWERS2[322] = "Jed Runewatcher";
 
 WOW_TRIVIA_QUESTIONS[323] = "What is 'The Venture Co.' mostly made of?";
 WOW_TRIVIA_ANSWERS1[323] = "Goblin";
@@ -1433,32 +1441,28 @@ WOW_TRIVIA_ANSWERS1[362] = "Main Tank";
 WOW_TRIVIA_QUESTIONS[363] = "The acronym 'OT' refers to?";
 WOW_TRIVIA_ANSWERS1[363] = "Off tank";
 
-WOW_TRIVIA_QUESTIONS[364] = "The acronyms 'IRL/RL' refers to? (name one of them)";
+WOW_TRIVIA_QUESTIONS[364] = "The acronyms 'IRL' refers to?";
 WOW_TRIVIA_ANSWERS1[364] = "In real life";
-WOW_TRIVIA_ANSWERS2[364] = "real life";
 
 WOW_TRIVIA_QUESTIONS[365] = "The acronym 'GM' refers to? (name one of them)";
 WOW_TRIVIA_ANSWERS1[365] = "Game Master";
 WOW_TRIVIA_ANSWERS2[365] = "Guild Master";
 
-WOW_TRIVIA_QUESTIONS[366] = "The acronym 'HFR' refers to?";
-WOW_TRIVIA_ANSWERS1[366] = "Hellfire Ramparts";
+WOW_TRIVIA_QUESTIONS[366] = "The acronym 'ES' refers to?";
+WOW_TRIVIA_ANSWERS1[366] = "Emerald Sanctum";
 
-WOW_TRIVIA_QUESTIONS[367] = "The acronym 'SH' refers to?";
-WOW_TRIVIA_ANSWERS1[367] = "Shattered Halls";
-WOW_TRIVIA_ANSWERS2[367] = "The Shattered Halls";
+WOW_TRIVIA_QUESTIONS[367] = "The acronym 'SR' refers to?";
+WOW_TRIVIA_ANSWERS1[367] = "Soft Reserve";
 
-WOW_TRIVIA_QUESTIONS[368] = "The acronym 'SP' refers to?";
-WOW_TRIVIA_ANSWERS1[368] = "Slave Pens";
-WOW_TRIVIA_ANSWERS2[368] = "The Slave Pens";
+WOW_TRIVIA_QUESTIONS[368] = "The acronym 'HR' refers to?";
+WOW_TRIVIA_ANSWERS1[368] = "Hard Reserve";
 
-WOW_TRIVIA_QUESTIONS[369] = "The acronym 'UB' refers to?";
-WOW_TRIVIA_ANSWERS1[369] = "Underbog";
-WOW_TRIVIA_ANSWERS2[369] = "The underbog";
+WOW_TRIVIA_QUESTIONS[369] = "The acronym 'HC' refers to?";
+WOW_TRIVIA_ANSWERS1[369] = "Hardcore";
 
-WOW_TRIVIA_QUESTIONS[370] = "The acronym 'SV' refers to?";
-WOW_TRIVIA_ANSWERS1[370] = "The Steamvault";
-WOW_TRIVIA_ANSWERS2[370] = "Steamvault";
+WOW_TRIVIA_QUESTIONS[370] = "The acronym 'CD' refers to?";
+WOW_TRIVIA_ANSWERS1[370] = "Cooldown";
+WOW_TRIVIA_ANSWERS2[370] = "Cooldowns";
 
 WOW_TRIVIA_QUESTIONS[371] = "The acronym 'NE' refers to (not the direction, the race)?";
 WOW_TRIVIA_ANSWERS1[371] = "night elf";
@@ -1492,15 +1496,15 @@ WOW_TRIVIA_ANSWERS2[379] = "The Temple of Ahn'Qiraj";
 WOW_TRIVIA_QUESTIONS[380] = "The acronym 'BWL' refers to?";
 WOW_TRIVIA_ANSWERS1[380] = "Blackwing Lair";
 
-WOW_TRIVIA_QUESTIONS[381] = "The acronym 'KZ' refers to? (the full name)";
+WOW_TRIVIA_QUESTIONS[381] = "The acronym 'Kara' refers to?";
 WOW_TRIVIA_ANSWERS1[381] = "Karazhan";
 
 WOW_TRIVIA_QUESTIONS[382] = "The acronym 'EPL' refers to?";
 WOW_TRIVIA_ANSWERS1[382] = "Eastern Plaguelands";
 
 WOW_TRIVIA_QUESTIONS[383] = "The drop chance for Baron Rivendare's mount is how much? (about, in percents)";
-WOW_TRIVIA_ANSWERS2[383] = "0.02%";
-WOW_TRIVIA_ANSWERS4[383] = "0.02";
+WOW_TRIVIA_ANSWERS1[383] = "0.02%";
+WOW_TRIVIA_ANSWERS2[383] = "0.02";
 
 WOW_TRIVIA_QUESTIONS[384] = "Where is Maraudon?";
 WOW_TRIVIA_ANSWERS1[384] = "Desolace";
@@ -1514,21 +1518,24 @@ WOW_TRIVIA_ANSWERS1[386] = "Dual wield";
 
 WOW_TRIVIA_QUESTIONS[387] = "The acronym 'HS' refers to?";
 WOW_TRIVIA_ANSWERS1[387] = "Hearthstone";
+WOW_TRIVIA_ANSWERS2[387] = "Heroic Strike";
 
 WOW_TRIVIA_QUESTIONS[388] = "The acronym 'FR' refers to?";
 WOW_TRIVIA_ANSWERS1[388] = "Fire resistance";
+WOW_TRIVIA_ANSWERS1[388] = "Frost resistance";
 
 WOW_TRIVIA_QUESTIONS[389] = "The acronym 'NR' refers to?";
 WOW_TRIVIA_ANSWERS1[389] = "Nature resistance";
 
-WOW_TRIVIA_QUESTIONS[390] = "The acronym 'SR' refers to?";
-WOW_TRIVIA_ANSWERS1[390] = "Shadow resistance";
+WOW_TRIVIA_QUESTIONS[390] = "The acronym 'AR' refers to?";
+WOW_TRIVIA_ANSWERS1[390] = "Arcane resistance";
 
 WOW_TRIVIA_QUESTIONS[391] = "The acronym 'XR' refers to?";
 WOW_TRIVIA_ANSWERS1[391] = "Crossroads";
 
-WOW_TRIVIA_QUESTIONS[392] = "The acronym 'TM' refers to?";
-WOW_TRIVIA_ANSWERS1[392] = "Tarren Mill";
+WOW_TRIVIA_QUESTIONS[392] = "The acronym 'DMT' refers to?";
+WOW_TRIVIA_ANSWERS1[392] = "Dire Maul Tribute";
+WOW_TRIVIA_ANSWERS2[392] = "Tribute Run";
 
 WOW_TRIVIA_QUESTIONS[393] = "The acronym 'TB' refers to?";
 WOW_TRIVIA_ANSWERS1[393] = "Thunder Bluff";
@@ -1546,8 +1553,8 @@ WOW_TRIVIA_ANSWERS1[396] = "Curse of Shadow";
 WOW_TRIVIA_QUESTIONS[397] = "The acronym 'FW' refers to?";
 WOW_TRIVIA_ANSWERS1[397] = "Fear ward";
 
-WOW_TRIVIA_QUESTIONS[398] = "The acronym 'VW' refers to?";
-WOW_TRIVIA_ANSWERS1[398] = "Voidwalker";
+WOW_TRIVIA_QUESTIONS[398] = "The acronym 'BB' refers to?";
+WOW_TRIVIA_ANSWERS1[398] = "Booty Bay";
 
 WOW_TRIVIA_QUESTIONS[399] = "What is the Boulderfist clan made of?";
 WOW_TRIVIA_ANSWERS1[399] = "Ogres";
@@ -1583,7 +1590,7 @@ WOW_TRIVIA_QUESTIONS[407] = "Where can you find Chrommagus?";
 WOW_TRIVIA_ANSWERS1[407] = "Blackwing Lair";
 WOW_TRIVIA_ANSWERS2[407] = "BWL";
 
-WOW_TRIVIA_QUESTIONS[408] = "Dalaran is a city in the Hillsbrad Foothills. (True/False)?";
+WOW_TRIVIA_QUESTIONS[408] = "Werewolf is a playable race in Turtle WOW, true or false?";
 WOW_TRIVIA_ANSWERS1[408] = "false";
 
 WOW_TRIVIA_QUESTIONS[409] = "What is 'Darrowmere'? (ex. a city)";
@@ -1633,8 +1640,9 @@ WOW_TRIVIA_ANSWERS2[419] = "14";
 WOW_TRIVIA_QUESTIONS[420] = "Genjuros was the _______ of the blackrock clan before he died.";
 WOW_TRIVIA_ANSWERS1[420] = "Blademaster";
 
-WOW_TRIVIA_QUESTIONS[421] = "Gilneas is located in the _________ and is currently unaccessible. (hint: the continent)";
-WOW_TRIVIA_ANSWERS1[421] = "Eastern kingdoms";
+WOW_TRIVIA_QUESTIONS[421] = "Gilneas is located behind the _________ Wall";
+WOW_TRIVIA_ANSWERS1[421] = "Greymane Wall";
+WOW_TRIVIA_ANSWERS2[421] = "Greymane";
 
 WOW_TRIVIA_QUESTIONS[422] = "Who is the leader of Gilneas?";
 WOW_TRIVIA_ANSWERS1[422] = "Greymane";
@@ -1764,12 +1772,12 @@ WOW_TRIVIA_ANSWERS1[460] = "Abyssal Maw";
 WOW_TRIVIA_QUESTIONS[461] = "The ____________ Cartel is the largest and most successful of the Goblin Cartels in Undermine.";
 WOW_TRIVIA_ANSWERS1[461] = "Steamwheedle";
 
-WOW_TRIVIA_QUESTIONS[462] = "_______________ the naga tribe, is currently dwelling in the northern Darkshore. (hint: This is also a realm name, in both the EU and the US)";
+WOW_TRIVIA_QUESTIONS[462] = "_______________ the naga tribe, is currently dwelling in the northern Darkshore.";
 WOW_TRIVIA_ANSWERS1[462] = "Stormscale";
 
-WOW_TRIVIA_QUESTIONS[463] = "The 'oprah event' is in ___________.";
-WOW_TRIVIA_ANSWERS1[463] = "Kara";
-WOW_TRIVIA_ANSWERS2[463] = "Karazhan";
+WOW_TRIVIA_QUESTIONS[463] = "Moroes is the ___________ of Karazhan.";
+WOW_TRIVIA_ANSWERS1[463] = "Castellan";
+WOW_TRIVIA_ANSWERS2[463] = "Steward";
 
 WOW_TRIVIA_QUESTIONS[464] = "Where can you find Garr?";
 WOW_TRIVIA_ANSWERS1[464] = "Molten Core";
@@ -1795,13 +1803,13 @@ WOW_TRIVIA_ANSWERS1[469] = "Burning Legion";
 WOW_TRIVIA_QUESTIONS[470] = "The World of Warcraft official soundtrack is only availible if you purchased the Collector's edition. (True/False)?";
 WOW_TRIVIA_ANSWERS1[470] = "False";
 
-WOW_TRIVIA_QUESTIONS[471] = "What is the name of the populare addon which has a database of every thing you have picked, since you had the addon?";
-WOW_TRIVIA_ANSWERS1[471] = "Gatherer";
+WOW_TRIVIA_QUESTIONS[471] = "What is the name of the popular questing addon in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[471] = "pfquest";
 
 WOW_TRIVIA_QUESTIONS[472] = "Guess the Zone: This zone is a giant farm land, and is nearly controlled solely by the Defias Brotherhood.";
 WOW_TRIVIA_ANSWERS1[472] = "Westfall";
 
-WOW_TRIVIA_QUESTIONS[473] = "Guess the Zone: Before TBC came out, this zone featured the populare stat potions, the ones which gives the player +25 to a stat. With the recent development with the guardian and battle elixirs, these potions is not used anymore.";
+WOW_TRIVIA_QUESTIONS[473] = "Guess the Zone: this zone featured the popular stat cosumes, the ones which gives the player +25 to a stat";
 WOW_TRIVIA_ANSWERS1[473] = "Blasted Lands";
 
 WOW_TRIVIA_QUESTIONS[474] = "Guess the Zone: This zone was originally the Black Morass, but has changed name since then, due to the changes in the environment. This zone features a dragon which drops spheres, which in turn can be turned in for loot.";
@@ -1813,7 +1821,7 @@ WOW_TRIVIA_ANSWERS1[475] = "Burning Steppes";
 WOW_TRIVIA_QUESTIONS[476] = "Guess the Zone: This zone features the Altar of Storms. This zone has plenty of dragon whelps and ogres. Herbers can find dreamfoil and black lotuses here.";
 WOW_TRIVIA_ANSWERS1[476] = "Burning Steppes";
 
-WOW_TRIVIA_QUESTIONS[477] = "Guess the Zone: This zone features Karazhan, and is a relatively small zone. This place is known for its ogres that is perfect to grind, for both experience, and for runecoth.";
+WOW_TRIVIA_QUESTIONS[477] = "Guess the Zone: This zone features Karazhan, and is a relatively small zone.";
 WOW_TRIVIA_ANSWERS1[477] = "Deadwind Pass";
 
 WOW_TRIVIA_QUESTIONS[478] = "Guess the Zone: The town in this zone is speculated to be Sunnyglade, but later renamed due to the events that has transpired in this zone. This zone features the Scourge, and a lot of worgens.";
@@ -1860,7 +1868,7 @@ WOW_TRIVIA_ANSWERS1[489] = "Ashenvale";
 WOW_TRIVIA_QUESTIONS[490] = "Guess the Zone: Nagas, ghosts, and satyrs are some of the local inhabitants in this zone. The zone was named after the former kaldorei Queen, which is now the leader of the naga's.";
 WOW_TRIVIA_ANSWERS1[490] = "Azshara";
 
-WOW_TRIVIA_QUESTIONS[491] = "Guess the Zone: One of the best zones for farming Dreamfoil and Mountain Silversage. This zone also features the Hydraxian Waterlords faction. The zone is also known to be one of best-looking zones in World of Warcraft.";
+WOW_TRIVIA_QUESTIONS[491] = "Guess the Zone: This zone features the Hydraxian Waterlords faction. The zone is also known to be one of best-looking zones in World of Warcraft.";
 WOW_TRIVIA_ANSWERS1[491] = "Azshara"
 
 WOW_TRIVIA_QUESTIONS[492] = "Guess the Zone: Several large kaldorei cities once stood in this zone. This zone has one instance, and is mostly about corrupted Druids. A quest chain in this zone wants you to hunt raptors all over the place becuase they stole some silver.";
@@ -1904,8 +1912,9 @@ WOW_TRIVIA_ANSWERS1[503] = "Feralas";
 WOW_TRIVIA_QUESTIONS[504] = "Guess the Zone: Faeri dragons, and gnolls are two of the local inhabitants in this zone. The endgame guilds used to grind the raw meat of the Chimaeras in this zone in order to make the famous food, Dirge's Kickin' Chimaerok Chops.";
 WOW_TRIVIA_ANSWERS1[504] = "Feralas";
 
-WOW_TRIVIA_QUESTIONS[505] = "Guess the Zone: This zone contains the old world tree, and is currently unaccessible without special means.";
+WOW_TRIVIA_QUESTIONS[505] = "Guess the Zone: This zone contains the old world tree, and has a Turtle WOW exclusive raid.";
 WOW_TRIVIA_ANSWERS1[505] = "Mount Hyjal";
+WOW_TRIVIA_ANSWERS2[505] = "Hyjal";
 
 WOW_TRIVIA_QUESTIONS[506] = "Guess the Zone: This zone is a haven for Druids and is the home of the Cenarion Circle. The conflict between the Alliance and the Horde is not tolerated by the protectors of this zone. This zone also features Omen during the Lunar Festival.";
 WOW_TRIVIA_ANSWERS1[506] = "Moonglade";
@@ -1960,9 +1969,9 @@ WOW_TRIVIA_ANSWERS1[521] = "Winterspring";
 WOW_TRIVIA_QUESTIONS[522] = "The epic frost resistance gear for Warriors is called _________. Guilds usually create them for Naxxramas.";
 WOW_TRIVIA_ANSWERS1[522] = "Icebane";
 
-WOW_TRIVIA_QUESTIONS[523] = "How many people can you enter Karazhan with?";
-WOW_TRIVIA_ANSWERS1[523] = "10";
-WOW_TRIVIA_ANSWERS2[523] = "ten";
+WOW_TRIVIA_QUESTIONS[523] = "How many people can you enter Karazhan Crypt with?";
+WOW_TRIVIA_ANSWERS1[523] = "5";
+WOW_TRIVIA_ANSWERS2[523] = "five";
 
 WOW_TRIVIA_QUESTIONS[524] = "The famous '______ on a stick' is widely known by nearly everyone in World of Warcaft.";
 WOW_TRIVIA_ANSWERS1[524] = "Carrot";
@@ -2064,8 +2073,8 @@ WOW_TRIVIA_ANSWERS1[545] = "Zul'Gurub";
 WOW_TRIVIA_ANSWERS2[545] = "ZG";
 WOW_TRIVIA_ANSWERS3[545] = "Zul Gurub";
 
-WOW_TRIVIA_QUESTIONS[546] = "Name the infamous troll player which leveled to 70 without using weapons or armors.";
-WOW_TRIVIA_ANSWERS1[546] = "Gutrot";
+WOW_TRIVIA_QUESTIONS[546] = "How many collectible frog pets are in Turtle WOW?";
+WOW_TRIVIA_ANSWERS1[546] = "13";
 
 WOW_TRIVIA_QUESTIONS[547] = "Where can you find Razorgore the Untamed?";
 WOW_TRIVIA_ANSWERS1[547] = "Blackwing Lair";
@@ -2189,11 +2198,11 @@ WOW_TRIVIA_ANSWERS1[574] = "Ruins of Ahn'Qiraj";
 WOW_TRIVIA_ANSWERS2[574] = "AQ20";
 WOW_TRIVIA_ANSWERS3[574] = "AQ 20";
 
-WOW_TRIVIA_QUESTIONS[575] = "In what content patch was Ahn'Qiraj released?";
-WOW_TRIVIA_ANSWERS1[575] = "1.9";
+WOW_TRIVIA_QUESTIONS[575] = "You can retrieve a wand turns you into a furbolg by doing the questline ______'s Cleansing.";
+WOW_TRIVIA_ANSWERS1[575] = "Raene";
 
-WOW_TRIVIA_QUESTIONS[576] = "In what content patch was Naxxramas released?";
-WOW_TRIVIA_ANSWERS1[576] = "1.11";
+WOW_TRIVIA_QUESTIONS[576] = "You can find who's ring in Naxxramas and make it into a frost resistance ring?";
+WOW_TRIVIA_ANSWERS1[576] = "Ramaladni";
 
 WOW_TRIVIA_QUESTIONS[577] = "Where can you find Anub'Rekhan?";
 WOW_TRIVIA_ANSWERS1[577] = "Naxx";
@@ -2262,17 +2271,19 @@ WOW_TRIVIA_ANSWERS2[592] = "Naxxramas";
 WOW_TRIVIA_QUESTIONS[593] = "Who is Highlord Mograine's son?";
 WOW_TRIVIA_ANSWERS1[593] = "Renault";
 WOW_TRIVIA_ANSWERS2[593] = "Renault Mograine";
+WOW_TRIVIA_ANSWERS3[593] = "Darion";
+WOW_TRIVIA_ANSWERS4[593] = "Darion Mograine";
 
 WOW_TRIVIA_QUESTIONS[594] = "What is the firstname of the Scarlet Crusade's Ambassador, which was sent to discuss the Scourge Invasion?";
 WOW_TRIVIA_ANSWERS1[594] = "Marjhan";
 
-WOW_TRIVIA_QUESTIONS[595] = "How many Outland factions exists at the moment?";
-WOW_TRIVIA_ANSWERS1[595] = "15";
-WOW_TRIVIA_ANSWERS2[595] = "fifteen";
+WOW_TRIVIA_QUESTIONS[595] = "How many bosses in Naxxramas?";
+WOW_TRIVIA_ANSWERS1[595] = "12";
+WOW_TRIVIA_ANSWERS2[595] = "twelve";
 
-WOW_TRIVIA_QUESTIONS[596] = "How many Azeroth factions exists at the moment?";
-WOW_TRIVIA_ANSWERS1[596] = "29";
-WOW_TRIVIA_ANSWERS2[596] = "twentynine";
+WOW_TRIVIA_QUESTIONS[596] = "How many bosses in Kara40?";
+WOW_TRIVIA_ANSWERS1[596] = "9";
+WOW_TRIVIA_ANSWERS2[596] = "nine";
 
 WOW_TRIVIA_QUESTIONS[597] = "The night elves were once called the ________.";
 WOW_TRIVIA_ANSWERS1[597] = "Kaldorei";
@@ -2293,43 +2304,60 @@ WOW_TRIVIA_QUESTIONS[602] = "It is rumored that ______ are the offsprings of gro
 WOW_TRIVIA_ANSWERS1[602] = "Ogre";
 WOW_TRIVIA_ANSWERS2[602] = "Ogres";
 
-WOW_TRIVIA_QUESTIONS[603] = "______ did the world first on Azgalor the pitlord.";
-WOW_TRIVIA_ANSWERS1[603] = "Curse";
+WOW_TRIVIA_QUESTIONS[603] = "Where can you find Master Blacksmith Rolfen?";
+WOW_TRIVIA_ANSWERS1[603] = "Kara10";
+WOW_TRIVIA_ANSWERS2[603] = "Kara 10";
+WOW_TRIVIA_ANSWERS3[603] = "Lower Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[604] = "What is the name of the guild which did the world first on Nefarian? (hint: Something that happens quite often in guilds is the guildname of this guild)";
-WOW_TRIVIA_ANSWERS1[604] = "Drama";
+WOW_TRIVIA_QUESTIONS[604] = "Where can you find Master Brood Queen Araxxna?";
+WOW_TRIVIA_ANSWERS1[604] = "Kara10";
+WOW_TRIVIA_ANSWERS2[604] = "Kara 10";
+WOW_TRIVIA_ANSWERS3[604] = "Lower Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[605] = "Death & Taxes did the world first on _______ in Karazhan.";
-WOW_TRIVIA_ANSWERS1[605] = "Nightbane";
+WOW_TRIVIA_QUESTIONS[605] = "Where can you find Grizikil?";
+WOW_TRIVIA_ANSWERS1[605] = "Kara10";
+WOW_TRIVIA_ANSWERS2[605] = "Kara 10";
+WOW_TRIVIA_ANSWERS3[605] = "Lower Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[606] = "Ascent did the world first on __________.";
-WOW_TRIVIA_ANSWERS1[606] = "Ragnaros";
+WOW_TRIVIA_QUESTIONS[606] = "Where can you find Clawlord Howlfang?";
+WOW_TRIVIA_ANSWERS1[606] = "Kara10";
+WOW_TRIVIA_ANSWERS2[606] = "Kara 10";
+WOW_TRIVIA_ANSWERS3[606] = "Lower Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[607] = "What guild did the world first on Kel'Thuzad?";
-WOW_TRIVIA_ANSWERS1[607] = "Nihilum";
+WOW_TRIVIA_QUESTIONS[607] = "Where can you find Moroes?";
+WOW_TRIVIA_ANSWERS1[607] = "Kara10";
+WOW_TRIVIA_ANSWERS2[607] = "Kara 10";
+WOW_TRIVIA_ANSWERS3[607] = "Lower Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[608] = "What guild did the world first on The Four Horsemen?";
-WOW_TRIVIA_ANSWERS1[608] = "Deathandtaxes";
-WOW_TRIVIA_ANSWERS2[608] = "Death & Taxes";
-WOW_TRIVIA_ANSWERS3[608] = "Death&Taxes";
+WOW_TRIVIA_QUESTIONS[608] = "Where can you find Lord Blackwald II?";
+WOW_TRIVIA_ANSWERS1[608] = "Kara10";
+WOW_TRIVIA_ANSWERS2[608] = "Kara 10";
+WOW_TRIVIA_ANSWERS3[608] = "Lower Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[609] = "If you go where you are not supposed to (like, Mount Hyjal, which is not finished) you get a debuff called _______________ which teleports you away.";
-WOW_TRIVIA_ANSWERS1[609] = "no mans land";
-WOW_TRIVIA_ANSWERS2[609] = "no man's land";
+WOW_TRIVIA_QUESTIONS[609] = "Where can you find Keeper Gnarlmoon?";
+WOW_TRIVIA_ANSWERS1[609] = "Kara40";
+WOW_TRIVIA_ANSWERS2[609] = "Kara 40";
+WOW_TRIVIA_ANSWERS3[609] = "Upper Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[610] = "There are ______ holiday events in world of warcraft.";
-WOW_TRIVIA_ANSWERS1[610] = "ten";
-WOW_TRIVIA_ANSWERS2[610] = "10";
+WOW_TRIVIA_QUESTIONS[610] = "Where can you find Ley-Watcher Incantagos?";
+WOW_TRIVIA_ANSWERS1[610] = "Kara40";
+WOW_TRIVIA_ANSWERS2[610] = "Kara 40";
+WOW_TRIVIA_ANSWERS3[610] = "Upper Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[611] = "What is the name of the player which got to 1-60 in 4 days and 20 hours before TBC came, and made a guide about it?";
-WOW_TRIVIA_ANSWERS1[611] = "Joana";
+WOW_TRIVIA_QUESTIONS[611] = "Where can you find Anomalus?";
+WOW_TRIVIA_ANSWERS1[611] = "Kara40";
+WOW_TRIVIA_ANSWERS2[611] = "Kara 40";
+WOW_TRIVIA_ANSWERS3[611] = "Upper Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[612] = "What is the name of the player who is famous for his leveling guides? (from 20-60 on both factions)";
-WOW_TRIVIA_ANSWERS1[612] = "Jame";
+WOW_TRIVIA_QUESTIONS[612] = "Where can you find Echo of Medivh?";
+WOW_TRIVIA_ANSWERS1[612] = "Kara40";
+WOW_TRIVIA_ANSWERS2[612] = "Kara 40";
+WOW_TRIVIA_ANSWERS3[612] = "Upper Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[613] = "How many characters can you have per realm?";
-WOW_TRIVIA_ANSWERS1[613] = "ten";
-WOW_TRIVIA_ANSWERS2[613] = "10";
+WOW_TRIVIA_QUESTIONS[613] = "Where can you find Chess?";
+WOW_TRIVIA_ANSWERS1[613] = "Kara40";
+WOW_TRIVIA_ANSWERS2[613] = "Kara 40";
+WOW_TRIVIA_ANSWERS3[613] = "Upper Karazhan Halls";
 
 WOW_TRIVIA_QUESTIONS[614] = "The homeland of the goblins is called what?";
 WOW_TRIVIA_ANSWERS1[614] = "Kezan";
@@ -2346,25 +2374,24 @@ WOW_TRIVIA_QUESTIONS[617] = "How many troll tribes is known to exists?";
 WOW_TRIVIA_ANSWERS1[617] = "18";
 WOW_TRIVIA_ANSWERS2[617] = "eighteen";
 
-WOW_TRIVIA_QUESTIONS[618] = "Where can you find Attunmen & Midnight?";
-WOW_TRIVIA_ANSWERS1[618] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[618] = "KZ";
-WOW_TRIVIA_ANSWERS3[618] = "Kara";
+WOW_TRIVIA_QUESTIONS[618] = "Where can you find Erennius?";
+WOW_TRIVIA_ANSWERS1[618] = "ES";
+WOW_TRIVIA_ANSWERS2[618] = "Emerald Sanctum";
 
-WOW_TRIVIA_QUESTIONS[619] = "Where can you find Maiden of Virtue?";
-WOW_TRIVIA_ANSWERS1[619] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[619] = "KZ";
-WOW_TRIVIA_ANSWERS3[619] = "Kara";
+WOW_TRIVIA_QUESTIONS[619] = "Where can you find Solnius the Awakener?";
+WOW_TRIVIA_ANSWERS1[619] = "ES";
+WOW_TRIVIA_ANSWERS2[619] = "Emerald Sanctum";
 
 WOW_TRIVIA_QUESTIONS[620] = "Where can you find Curator?";
 WOW_TRIVIA_ANSWERS1[620] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[620] = "KZ";
-WOW_TRIVIA_ANSWERS3[620] = "Kara";
+WOW_TRIVIA_ANSWERS2[620] = "Kara40";
+WOW_TRIVIA_ANSWERS3[620] = "Upper Karazhan Halls";
 
-WOW_TRIVIA_QUESTIONS[621] = "Where can you find Terestian Illhoof?";
-WOW_TRIVIA_ANSWERS1[621] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[621] = "KZ";
-WOW_TRIVIA_ANSWERS3[621] = "Kara";
+WOW_TRIVIA_QUESTIONS[621] = "Where can you find Alarus?";
+WOW_TRIVIA_ANSWERS1[621] = "Karazhan Crypt";
+WOW_TRIVIA_ANSWERS2[621] = "Kara Crypt";
+WOW_TRIVIA_ANSWERS3[621] = "KaraCrypt";
+WOW_TRIVIA_ANSWERS4[621] = "KC";
 
 WOW_TRIVIA_QUESTIONS[622] = "Where can you find the shade of Aran?";
 WOW_TRIVIA_ANSWERS1[622] = "Karazhan";
