@@ -106,7 +106,6 @@ function Trivia_Command(cmd)
 			Trivia_ConsoleMessage("Select question list: ");
 			Trivia_ConsoleMessage("normal - Mixed questions.");
 			Trivia_ConsoleMessage("wow - World of Warcraft questions.")
-			Trivia_ConsoleMessage("turtle - Turtle WoW questions.")
 			Trivia_ConsoleMessage("geography - Geography questions.")
 		elseif (msgArgs[1] == "clear") then
 			-- Clear the scores
@@ -181,19 +180,6 @@ function Trivia_Command(cmd)
 					TRIVIA_ANSWERS6 = WOW_TRIVIA_ANSWERS6;
 					TRIVIA_ANSWERS7 = WOW_TRIVIA_ANSWERS7;
 					TRIVIA_ANSWERS8 = WOW_TRIVIA_ANSWERS8;
-					Trivia_RandomiseOrder();
-				elseif (msgArgs[2] == "turtle") then
-					Trivia_ConsoleMessage("Turtle WoW question set selected");
-					TRIVIA_QLIST = "turtle";
-					TRIVIA_QUESTIONS = TURTLE_TRIVIA_QUESTIONS;
-					TRIVIA_ANSWERS1 = TURTLE_TRIVIA_ANSWERS1;
-					TRIVIA_ANSWERS2 = TURTLE_TRIVIA_ANSWERS2;
-					TRIVIA_ANSWERS3 = TURTLE_TRIVIA_ANSWERS3;
-					TRIVIA_ANSWERS4 = TURTLE_TRIVIA_ANSWERS4;
-					TRIVIA_ANSWERS5 = TURTLE_TRIVIA_ANSWERS5;
-					TRIVIA_ANSWERS6 = TURTLE_TRIVIA_ANSWERS6;
-					TRIVIA_ANSWERS7 = TURTLE_TRIVIA_ANSWERS7;
-					TRIVIA_ANSWERS8 = TURTLE_TRIVIA_ANSWERS8;
 					Trivia_RandomiseOrder();
 				elseif (msgArgs[2] == "geography" or msgArgs[2] == "geog") then
 					Trivia_ConsoleMessage("Geography question set selected");
@@ -326,7 +312,7 @@ function Trivia_Help()
 	Trivia_ConsoleMessage("'/trivia skip' - Skips the current question.");
 	Trivia_ConsoleMessage("'/trivia shuffle' - Shuffles the questions (restarts from beginning).");
 	Trivia_ConsoleMessage("'/trivia clear' - Clears the scores.");
-	Trivia_ConsoleMessage("'/trivia qlist [wow|normal|geography|turtle]' Select the question list.");
+	Trivia_ConsoleMessage("'/trivia qlist [wow|normal|geography|' Select the question list.");
 	Trivia_ConsoleMessage("'/trivia help' shows this information.");
 	
 end
