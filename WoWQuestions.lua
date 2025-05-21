@@ -2393,35 +2393,25 @@ WOW_TRIVIA_ANSWERS2[621] = "Kara Crypt";
 WOW_TRIVIA_ANSWERS3[621] = "KaraCrypt";
 WOW_TRIVIA_ANSWERS4[621] = "KC";
 
-WOW_TRIVIA_QUESTIONS[622] = "Where can you find the shade of Aran?";
-WOW_TRIVIA_ANSWERS1[622] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[622] = "KZ";
-WOW_TRIVIA_ANSWERS3[622] = "Kara";
+WOW_TRIVIA_QUESTIONS[622] = "Where can you find the Turtle WOW custom dungeon Crescent Grove?";
+WOW_TRIVIA_ANSWERS1[622] = "Ahsenvale";
 
-WOW_TRIVIA_QUESTIONS[623] = "Where can you find Netherspite?";
-WOW_TRIVIA_ANSWERS1[623] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[623] = "KZ";
-WOW_TRIVIA_ANSWERS3[623] = "Kara";
 
-WOW_TRIVIA_QUESTIONS[624] = "Where can you find Nightbane?";
-WOW_TRIVIA_ANSWERS1[624] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[624] = "KZ";
-WOW_TRIVIA_ANSWERS3[624] = "Kara";
+WOW_TRIVIA_QUESTIONS[623] = "Where can you find the town Nordanaar?";
+WOW_TRIVIA_ANSWERS1[623] = "Hyjal";
+WOW_TRIVIA_ANSWERS2[623] = "Mount Hyjal";
 
-WOW_TRIVIA_QUESTIONS[625] = "Where can you find Hyakiss the Lurker?";
-WOW_TRIVIA_ANSWERS1[625] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[625] = "KZ";
-WOW_TRIVIA_ANSWERS3[625] = "Kara";
+WOW_TRIVIA_QUESTIONS[624] = "Where can you find the town Ravenshire?";
+WOW_TRIVIA_ANSWERS1[624] = "Gilneas";
 
-WOW_TRIVIA_QUESTIONS[626] = "Where can you find Rokad the Ravager?";
-WOW_TRIVIA_ANSWERS1[626] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[626] = "KZ";
-WOW_TRIVIA_ANSWERS3[626] = "Kara";
+WOW_TRIVIA_QUESTIONS[625] = "Where can you find the town Glenshire?";
+WOW_TRIVIA_ANSWERS1[625] = "Tirisfal Uplands";
 
-WOW_TRIVIA_QUESTIONS[627] = "Where can you find Shadikith the Glider?";
-WOW_TRIVIA_ANSWERS1[627] = "Karazhan";
-WOW_TRIVIA_ANSWERS2[627] = "KZ";
-WOW_TRIVIA_ANSWERS3[627] = "Kara";
+WOW_TRIVIA_QUESTIONS[626] = "Silvermoon Remnant is the new alliance faction, what the corresponding new faction for horde?";
+WOW_TRIVIA_ANSWERS1[626] = "Revantusk Trolls";
+
+WOW_TRIVIA_QUESTIONS[627] = "Revantusk Trolls is the new horde faction, what the corresponding new faction for alliance?";
+WOW_TRIVIA_ANSWERS1[627] = "Silvermoon Remnant";
 
 WOW_TRIVIA_QUESTIONS[628] = "When does the Harvest Festival start, in September?";
 WOW_TRIVIA_ANSWERS1[628] = "September 24th";
@@ -2465,30 +2455,20 @@ WOW_TRIVIA_ANSWERS2[634] = "21th June";
 WOW_TRIVIA_ANSWERS3[634] = "21th";
 WOW_TRIVIA_ANSWERS4[634] = "21";
 
-WOW_TRIVIA_QUESTIONS[635] = "Where can you find Rage Winterchill?";
-WOW_TRIVIA_ANSWERS1[635] = "Battle for Mount Hyjal";
-WOW_TRIVIA_ANSWERS2[635] = "Hyjal";
-WOW_TRIVIA_ANSWERS3[635] = "Hyjal Summit";
+WOW_TRIVIA_QUESTIONS[635] = "What is the trinket you get from exalted Timbermaw Hold reputation?";
+WOW_TRIVIA_ANSWERS1[635] = "Defender of the Timbermaw";
 
-WOW_TRIVIA_QUESTIONS[636] = "Where can you find Anetheron?";
-WOW_TRIVIA_ANSWERS1[636] = "Battle for Mount Hyjal";
-WOW_TRIVIA_ANSWERS2[636] = "Hyjal";
-WOW_TRIVIA_ANSWERS3[636] = "Hyjal Summit";
+WOW_TRIVIA_QUESTIONS[636] = "What is the slowest bow in game?";
+WOW_TRIVIA_ANSWERS1[636] = "Time Frozen Bow";
 
-WOW_TRIVIA_QUESTIONS[637] = "Where can you find Kaz'rogal?";
-WOW_TRIVIA_ANSWERS1[637] = "Battle for Mount Hyjal";
-WOW_TRIVIA_ANSWERS2[637] = "Hyjal";
-WOW_TRIVIA_ANSWERS3[637] = "Hyjal Summit";
+WOW_TRIVIA_QUESTIONS[637] = "What is the fastest gun in game?";
+WOW_TRIVIA_ANSWERS1[637] = "Precisely Calibrated Boomstick";
 
-WOW_TRIVIA_QUESTIONS[638] = "Where can you find Azgalor?";
-WOW_TRIVIA_ANSWERS1[638] = "Battle for Mount Hyjal";
-WOW_TRIVIA_ANSWERS2[638] = "Hyjal";
-WOW_TRIVIA_ANSWERS3[638] = "Hyjal Summit";
+WOW_TRIVIA_QUESTIONS[638] = "What is the slowest 2H Sword in game?";
+WOW_TRIVIA_ANSWERS1[638] = "Stoneslayer";
 
-WOW_TRIVIA_QUESTIONS[639] = "Where can you find Archimonde?";
-WOW_TRIVIA_ANSWERS1[639] = "Battle for Mount Hyjal";
-WOW_TRIVIA_ANSWERS2[639]= "Hyjal";
-WOW_TRIVIA_ANSWERS3[639] = "Hyjal Summit";
+WOW_TRIVIA_QUESTIONS[639] = "What is the weapon rewarded by hitting level 60 in Slow and Steady mode?";
+WOW_TRIVIA_ANSWERS1[639] = "Sword of a Thousand Truths";
 
 WOW_TRIVIA_QUESTIONS[640] = "Guess the Zone: This zone has lava elementals, spiders, and incendosaurs as its inhabitants. One of the quests in this zone is called 'What the Flux?'.";
 WOW_TRIVIA_ANSWERS1[640] = "Searing Gorge";
@@ -2514,29 +2494,25 @@ WOW_TRIVIA_ANSWERS1[645] = "A demigod";
 WOW_TRIVIA_ANSWERS2[645] = "Demigod";
 WOW_TRIVIA_ANSWERS3[645] = "A demi-god";
 
-WOW_TRIVIA_QUESTIONS[646] = "Who sells Soap on a Rope, in Shattrath?";
-WOW_TRIVIA_ANSWERS1[646] = "Griftah";
+WOW_TRIVIA_QUESTIONS[646] = "Which weapon skills given by Edgemaster's Handguards? Name one.";
+WOW_TRIVIA_ANSWERS1[646] = "Axes";
+WOW_TRIVIA_ANSWERS2[646] = "Swords";
+WOW_TRIVIA_ANSWERS3[646] = "Daggers";
 
-WOW_TRIVIA_QUESTIONS[647] = "What foe will you face the most in the expansion? (ex. Amani Empire)";
-WOW_TRIVIA_ANSWERS1[647] = "Scourge"
-WOW_TRIVIA_ANSWERS2[647] = "the Scourge";
+WOW_TRIVIA_QUESTIONS[647] = "What is the fastest 2H Axe?";
+WOW_TRIVIA_ANSWERS1[647] = "Brain Hacker"
 
-WOW_TRIVIA_QUESTIONS[648] = "How many new zones is comming with the expansion?";
-WOW_TRIVIA_ANSWERS1[648] = "10";
-WOW_TRIVIA_ANSWERS2[648] = "Ten";
+WOW_TRIVIA_QUESTIONS[648] = "The spell damage trinket rewarded by The Phylactery of Kel'Thuzad quest is named as 'Mark of the Champion', what is the name of the attack power trinket?";
+WOW_TRIVIA_ANSWERS1[648] = "Mark of the Champion";
 
 WOW_TRIVIA_QUESTIONS[649] = "Guess the Zone: This zone will be revamped in patch 2.3, and will feature the new goblin town, Mudsprocket. 'The Missing Diplomat' quest-chain has been countinued aswell. A total of 60 new quests has been added to the zone.";
 WOW_TRIVIA_ANSWERS1[649] = "Dustwallow Marsh";
 
-WOW_TRIVIA_QUESTIONS[650] = "What is the naga's also known as? (like, Archimonde the Defiler)";
-WOW_TRIVIA_ANSWERS1[650] = "The terror of the tides";
-WOW_TRIVIA_ANSWERS2[650] = "Terror of the tides";
-WOW_TRIVIA_ANSWERS3[650] = "The naga, Terror of the Tides";
+WOW_TRIVIA_QUESTIONS[650] = "The attack power trinket rewarded by The Phylactery of Kel'Thuzad quest is named as 'Mark of the Champion', what is the name of the spell power trinket?";
+WOW_TRIVIA_ANSWERS1[650] = "Mark of the Champion";
 
-WOW_TRIVIA_QUESTIONS[651] = "____________ watches over the Dragonblight together with his dragonflight, to make sure that the remains are undisturbed.";
-WOW_TRIVIA_ANSWERS1[651] = "Malygos";
-WOW_TRIVIA_ANSWERS2[651] = "Malygos the Spell-Weaver";
-WOW_TRIVIA_ANSWERS3[651] = "Malygos the Spell Weaver";
+WOW_TRIVIA_QUESTIONS[651] = "Darkmoon Faire moves out every ______.";
+WOW_TRIVIA_ANSWERS1[651] = "Sunday";
 
 WOW_TRIVIA_QUESTIONS[652] = "How many furbolg tribes are known to exist?";
 WOW_TRIVIA_ANSWERS1[652] = "14";
@@ -2545,8 +2521,8 @@ WOW_TRIVIA_ANSWERS2[652] = "fourteen";
 WOW_TRIVIA_QUESTIONS[653] = "A race of humanoid spiders, is also known as the __________.";
 WOW_TRIVIA_ANSWERS1[653] = "Nerubians";
 
-WOW_TRIVIA_QUESTIONS[654] = "The 'Knights of the Silver Hand' will make their return in the expansion. They are lead by the previously exiled Highlord ______ Fordring, which you can encounter ingame in the Eastern Plaguelands.";
-WOW_TRIVIA_ANSWERS1[654] = "Tirion";
+WOW_TRIVIA_QUESTIONS[654] = "Which clan is more brutal, Magram or Gelkis?";
+WOW_TRIVIA_ANSWERS1[654] = "Magram";
 
 WOW_TRIVIA_QUESTIONS[655] = "Alliance can expect to finally see ______ Bronzebeard, the famous explorer. He will be critical in order to uncover the real truth of Azeroth.";
 WOW_TRIVIA_ANSWERS1[655] = "Brann";
@@ -3009,28 +2985,20 @@ WOW_TRIVIA_QUESTIONS[791] = "Who drops the 'Misplaced Servo Arm' in Naxxramas? (
 WOW_TRIVIA_ANSWERS1[791] = "trash mobs";
 WOW_TRIVIA_ANSWERS2[791] = "trash";
 
-WOW_TRIVIA_QUESTIONS[792] = "Which bosses in Naxxramas drops the T3 feets? (name both, or one of them)";
-WOW_TRIVIA_ANSWERS1[792] = "Razuvious and Gothik";
-WOW_TRIVIA_ANSWERS2[792] = "Instructor Razuvious and Gothik the Harvester";
-WOW_TRIVIA_ANSWERS3[792] = "Gothik and Razuvious";
-WOW_TRIVIA_ANSWERS4[792] = "Gothik the Harvester and Instructor Razuvious";
-WOW_TRIVIA_ANSWERS5[792] = "Gothik";
-WOW_TRIVIA_ANSWERS6[792] = "Gothik the Harvester";
-WOW_TRIVIA_ANSWERS7[792] = "Instructor Razuvious";
-WOW_TRIVIA_ANSWERS8[792] = "Razuvious";
+WOW_TRIVIA_QUESTIONS[792] = "Which bosses in Naxxramas drops the T3 feets? (name one)";
+WOW_TRIVIA_ANSWERS1[792] = "Gothik";
+WOW_TRIVIA_ANSWERS2[792] = "Gothik the Harvester";
+WOW_TRIVIA_ANSWERS3[792] = "Instructor Razuvious";
+WOW_TRIVIA_ANSWERS4[792] = "Razuvious";
 
 WOW_TRIVIA_QUESTIONS[793] = "What boss drops the T3 leggings, in Naxxramas?";
 WOW_TRIVIA_ANSWERS1[793] = "Loatheb";
 
-WOW_TRIVIA_QUESTIONS[794] = "Which bosses in Naxxramas drops the T3 waist? (name both, or one of them)";
-WOW_TRIVIA_ANSWERS1[794] = "Noth and Heigan";
-WOW_TRIVIA_ANSWERS2[794] = "Noth the Plaguebringer and Heigan the Unclean";
-WOW_TRIVIA_ANSWERS3[794] = "Heigan and Noth";
-WOW_TRIVIA_ANSWERS4[794] = "Heigan the Unclean and Noth the Plaguebringer";
-WOW_TRIVIA_ANSWERS5[794] = "Noth";
-WOW_TRIVIA_ANSWERS6[794] = "Heigan";
-WOW_TRIVIA_ANSWERS7[794] = "Noth the Plaguebringer";
-WOW_TRIVIA_ANSWERS8[794] = "Heigan the Unclean";
+WOW_TRIVIA_QUESTIONS[794] = "Which bosses in Naxxramas drops the T3 waist? (name one)";
+WOW_TRIVIA_ANSWERS1[794] = "Noth";
+WOW_TRIVIA_ANSWERS2[794] = "Heigan";
+WOW_TRIVIA_ANSWERS3[794] = "Noth the Plaguebringer";
+WOW_TRIVIA_ANSWERS4[794] = "Heigan the Unclean";
 
 WOW_TRIVIA_QUESTIONS[795] = "What boss in Naxxramas drops the T3 headpieces?";
 WOW_TRIVIA_ANSWERS1[795] = "Thaddius";
@@ -3038,9 +3006,9 @@ WOW_TRIVIA_ANSWERS1[795] = "Thaddius";
 WOW_TRIVIA_QUESTIONS[796] = "What boss in Naxxramas can drop the Feet/Waist/Shoulder/Wrist of T3?";
 WOW_TRIVIA_ANSWERS1[796] = "Gluth";
 
-WOW_TRIVIA_QUESTIONS[797] = "Which bosses in Naxxramas drops the T3 shoulders? (name both)";
-WOW_TRIVIA_ANSWERS1[797] = "Patchwerk and Grobbulus";
-WOW_TRIVIA_ANSWERS2[797] = "Grobbulus and Patchwerk";
+WOW_TRIVIA_QUESTIONS[797] = "Which bosses in Naxxramas drops the T3 shoulders? (name one)";
+WOW_TRIVIA_ANSWERS1[797] = "Patchwerk";
+WOW_TRIVIA_ANSWERS2[797] = "Grobbulus";
 
 WOW_TRIVIA_QUESTIONS[798] = "Quote: Your fate is sealed!";
 WOW_TRIVIA_ANSWERS1[798] = "The Twin Emperors";
@@ -3058,61 +3026,11 @@ WOW_TRIVIA_QUESTIONS[801] = "Quote: Death is close.";
 WOW_TRIVIA_ANSWERS1[801] = "C'thun";
 WOW_TRIVIA_ANSWERS2[801] = "Cthun";
 
-WOW_TRIVIA_QUESTIONS[802] = "Quote: Tremble mortals, and despair! Doom has come to this world!";
-WOW_TRIVIA_ANSWERS1[802] = "Archimonde";
+WOW_TRIVIA_QUESTIONS[802] = "Naxxramas scales down to 25 man. (True/False)?";
+WOW_TRIVIA_ANSWERS1[802] = "false";
 
-WOW_TRIVIA_QUESTIONS[803] = "Quote: This world will burn!";
-WOW_TRIVIA_ANSWERS1[803] = "Archimonde";
+WOW_TRIVIA_QUESTIONS[803] = "The nerubian spiderlords are followers of the __________ in Northrend.";
+WOW_TRIVIA_ANSWERS1[803] = "Old Gods";
 
-WOW_TRIVIA_QUESTIONS[804] = "Quote: I am the coming of the end ";
-WOW_TRIVIA_ANSWERS1[804] = "Archimonde";
-
-WOW_TRIVIA_QUESTIONS[805] = "Quote: Abandon all hope! The legion has returned to finish what was begun so many years ago. This time there will be no escape!";
-WOW_TRIVIA_ANSWERS1[805] = "Azgalor";
-
-WOW_TRIVIA_QUESTIONS[806] = "Quote: Cry for mercy! Your meaningless lives will soon be forfeit.";
-WOW_TRIVIA_ANSWERS1[806] = "Kaz'rogal";
-
-WOW_TRIVIA_QUESTIONS[807] = "Quote: You are defenders of a doomed world. Flee here and perhaps you will prolong your pathetic lives.";
-WOW_TRIVIA_ANSWERS1[807] = "Anetheron";
-
-WOW_TRIVIA_QUESTIONS[808] = "Quote: Succumb to the icy chill... of death!";
-WOW_TRIVIA_ANSWERS1[808] = "Rage Winterchill";
-
-WOW_TRIVIA_QUESTIONS[809] = "Quote: Ashes to ashes, dust to dust.";
-WOW_TRIVIA_ANSWERS1[809] = "Rage Winterchill";
-
-WOW_TRIVIA_QUESTIONS[810] = "Quote: My patience has run out! Die, die!";
-WOW_TRIVIA_ANSWERS1[810] = "High Warlord Naj'entus";
-WOW_TRIVIA_ANSWERS2[810] = "High Warlord Najentus";
-WOW_TRIVIA_ANSWERS3[810] = "Najentus";
-
-WOW_TRIVIA_QUESTIONS[811] = "Quote: YOU WILL SHOW THE PROPER RESPECT!";
-WOW_TRIVIA_ANSWERS1[811] = "Teron Gorefiend";
-
-WOW_TRIVIA_QUESTIONS[812] = "Quote: I'll rip the meat from your bones!";
-WOW_TRIVIA_ANSWERS1[812] = "Gurtogg Bloodboil";
-
-WOW_TRIVIA_QUESTIONS[813] = "Quote: You can have anything you desire... for a price.";
-WOW_TRIVIA_ANSWERS1[813] = "Reliquary of Souls";
-WOW_TRIVIA_ANSWERS2[813] = "Reliquary";
-WOW_TRIVIA_ANSWERS3[813] = "Essence of Souls";
-
-WOW_TRIVIA_QUESTIONS[814] = "Quote: So, business... or pleasure?";
-WOW_TRIVIA_ANSWERS1[814] = "Mother Shahraz";
-WOW_TRIVIA_ANSWERS2[814] = "Shahraz";
-
-WOW_TRIVIA_QUESTIONS[815] = "Quote: You're not cut out for this!";
-WOW_TRIVIA_ANSWERS1[815] = "Illidari Council";
-
-WOW_TRIVIA_QUESTIONS[816] = "Quote: Behold the flames of Azzinoth!";
-WOW_TRIVIA_ANSWERS1[816] = "Illidan Stormrage";
-
-WOW_TRIVIA_QUESTIONS[817] = "Naxxramas scales down to 25 man. (True/False)?";
-WOW_TRIVIA_ANSWERS1[817] = "false";
-
-WOW_TRIVIA_QUESTIONS[818] = "The nerubian spiderlords are followers of the __________ in Northrend.";
-WOW_TRIVIA_ANSWERS1[818] = "Old Gods";
-
-WOW_TRIVIA_QUESTIONS[819] = "Quote: Shhh... it will all be over soon.";
-WOW_TRIVIA_ANSWERS1[819] = "Anub'Rekhan";
+WOW_TRIVIA_QUESTIONS[804] = "Quote: Shhh... it will all be over soon.";
+WOW_TRIVIA_ANSWERS1[804] = "Anub'Rekhan";
