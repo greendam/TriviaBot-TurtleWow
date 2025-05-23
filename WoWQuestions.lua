@@ -870,7 +870,7 @@ WOW_TRIVIA_ANSWERS1[210] = "30";
 WOW_TRIVIA_ANSWERS2[210] = "30%";
 WOW_TRIVIA_ANSWERS3[210] = "Thirty";
 
-WOW_TRIVIA_QUESTIONS[211] = "Who is the most damaging boss in Naxxramas?";
+WOW_TRIVIA_QUESTIONS[211] = "Who is the hardest hitting boss in Naxxramas?";
 WOW_TRIVIA_ANSWERS1[211] = "Instructor Razuvious";
 WOW_TRIVIA_ANSWERS2[211] = "Razuvious";
 
@@ -2393,7 +2393,7 @@ WOW_TRIVIA_ANSWERS2[621] = "Kara Crypt";
 WOW_TRIVIA_ANSWERS3[621] = "KaraCrypt";
 WOW_TRIVIA_ANSWERS4[621] = "KC";
 
-WOW_TRIVIA_QUESTIONS[622] = "Where can you find the Turtle WOW custom dungeon Crescent Grove?";
+WOW_TRIVIA_QUESTIONS[622] = "Where can you find Crescent Grove?";
 WOW_TRIVIA_ANSWERS1[622] = "Ahsenvale";
 
 
@@ -2524,14 +2524,15 @@ WOW_TRIVIA_ANSWERS1[653] = "Nerubians";
 WOW_TRIVIA_QUESTIONS[654] = "Which clan is more brutal, Magram or Gelkis?";
 WOW_TRIVIA_ANSWERS1[654] = "Magram";
 
-WOW_TRIVIA_QUESTIONS[655] = "Alliance can expect to finally see ______ Bronzebeard, the famous explorer. He will be critical in order to uncover the real truth of Azeroth.";
-WOW_TRIVIA_ANSWERS1[655] = "Brann";
+WOW_TRIVIA_QUESTIONS[655] = "Which clan is more cunning, Magram or Gelkis?";
+WOW_TRIVIA_ANSWERS1[655] = "Gelkis";
 
-WOW_TRIVIA_QUESTIONS[656] = "The dwarves will discover the origin of life on Azeroth in the expansion. (True/False)?";
-WOW_TRIVIA_ANSWERS1[656] = "true";
+WOW_TRIVIA_QUESTIONS[656] = "How many inns you can find in Stormwind?";
+WOW_TRIVIA_ANSWERS1[656] = "4";
+WOW_TRIVIA_ANSWERS2[656] = "four";
 
-WOW_TRIVIA_QUESTIONS[657] = "Ulduar is a titan ____.";
-WOW_TRIVIA_ANSWERS1[657] = "City";
+WOW_TRIVIA_QUESTIONS[657] = "Where can you find Gamon?";
+WOW_TRIVIA_ANSWERS1[657] = "Orgrimmar";
 
 WOW_TRIVIA_QUESTIONS[658] = "It is rumored that it's probably in ________ that dwarves will learn the truth about Azeroth. In short, very much lore in it.";
 WOW_TRIVIA_ANSWERS1[658] = "Ulduar";
@@ -2618,7 +2619,7 @@ WOW_TRIVIA_ANSWERS1[682] = "Tier 3";
 
 WOW_TRIVIA_QUESTIONS[683] = "What can you find on the walls of each boss chamber and varius other places, in Naxxramas?";
 WOW_TRIVIA_ANSWERS1[683] = "Frozen Runes";
-WOW_TRIVIA_ANSWERS2[683] = "Frozen Rune's";
+WOW_TRIVIA_ANSWERS2[683] = "Frozen Rune";
 
 WOW_TRIVIA_QUESTIONS[684] = "Defrosting a frozen rune in Naxxramas with 'Word of _______' yields around 3 to 6 tradeable frozen runes. They can be used as a Greater Frost Protection Potion, or to craft epic frost resistance gear.";
 WOW_TRIVIA_ANSWERS1[684] = "Thawing";
@@ -2635,39 +2636,42 @@ WOW_TRIVIA_ANSWERS1[687] = "Icy Scale";
 WOW_TRIVIA_QUESTIONS[688] = "The epic frost resistance collection for Mages, Priests, Warlocks is called __________. Guilds usually create them for Naxxramas.";
 WOW_TRIVIA_ANSWERS1[688] = "Glacial";
 
-WOW_TRIVIA_QUESTIONS[689] = "What boss is considered to be the easiest, in Naxxramas?";
-WOW_TRIVIA_ANSWERS1[689] = "Instructor Razuvious";
-WOW_TRIVIA_ANSWERS2[689] = "Razuvious";
+WOW_TRIVIA_QUESTIONS[689] = "Which wing is considered to be the easiest, in Naxxramas?";
+WOW_TRIVIA_ANSWERS1[689] = "Spider";
+WOW_TRIVIA_ANSWERS2[689] = "Spider wing";
+WOW_TRIVIA_ANSWERS3[689] = "arachnid";
+WOW_TRIVIA_ANSWERS4[689] = "arachnid quarter";
 
-WOW_TRIVIA_QUESTIONS[690] = "What boss in Naxxramas is considered a very hard 'gear check'?";
+WOW_TRIVIA_QUESTIONS[690] = "What boss in Naxxramas is considered a 'gear check'?";
 WOW_TRIVIA_ANSWERS1[690] = "Patchwerk";
 
-WOW_TRIVIA_QUESTIONS[691] = "What boss is considered to be the second hardest in Naxxramas?";
-WOW_TRIVIA_ANSWERS1[691] = "The Four Horsemen";
+WOW_TRIVIA_QUESTIONS[691] = "How many Splinters required to make Atiesh?";
+WOW_TRIVIA_ANSWERS1[691] = "40";
 
-WOW_TRIVIA_QUESTIONS[692] = "What boss is considered to be the hardest of all in Naxxramas?";
-WOW_TRIVIA_ANSWERS1[692] = "Kel'Thuzad";
+WOW_TRIVIA_QUESTIONS[692] = "How many Eternal Dreamstone Shard required to make the Scythe of Elune?";
+WOW_TRIVIA_ANSWERS1[692] = "6";
 
-WOW_TRIVIA_QUESTIONS[693] = "In what instance except Naxxramas, can Kel'Thuzad be found?";
-WOW_TRIVIA_ANSWERS1[693] = "Escape from Durnholde Keep";
-WOW_TRIVIA_ANSWERS2[693] = "Durnholde";
-WOW_TRIVIA_ANSWERS3[693] = "Escape from Durnholde";
-WOW_TRIVIA_ANSWERS4[693] = "Old hillsbrad";
-WOW_TRIVIA_ANSWERS5[693] = "Old hillsbrad foothills";
+WOW_TRIVIA_QUESTIONS[693] = "In what instance except Naxxramas, can a death knight be found?";
+WOW_TRIVIA_ANSWERS1[693] = "Stratholme";
+WOW_TRIVIA_ANSWERS2[693] = "Strat";
+WOW_TRIVIA_ANSWERS3[693] = "Scarlet Monastery";
+WOW_TRIVIA_ANSWERS4[693] = "SMGY";
+WOW_TRIVIA_ANSWERS5[693] = "GY";
+WOW_TRIVIA_ANSWERS6[693] = "Strat dead";
 
 WOW_TRIVIA_QUESTIONS[694] = "In order to fight Sapphiron, you need to ring a bell inside Naxxramas. (True/False)?";
 WOW_TRIVIA_ANSWERS1[694] = "false";
 
-WOW_TRIVIA_QUESTIONS[695] = "What resistance do you need 150-200 of, in order to kill Sapphiron in Naxxramas? (atleast it was so, pre-bc)";
+WOW_TRIVIA_QUESTIONS[695] = "What resistance do you need 150-200 of, in order to kill Sapphiron in Naxxramas? (atleast it was so back in vanilla)";
 WOW_TRIVIA_ANSWERS1[695] = "frost";
 
-WOW_TRIVIA_QUESTIONS[696] = "What is the name of the boss which is considered 'free loot' by many people?";
+WOW_TRIVIA_QUESTIONS[696] = "What boss casts Slime Stream in Naxxramas?";
 WOW_TRIVIA_ANSWERS1[696] = "Grobbulus";
 
 WOW_TRIVIA_QUESTIONS[697] = "_____________ in Naxxramas you need to kite, in order to defeat him. He is known to get bugged sometimes.";
 WOW_TRIVIA_ANSWERS1[697] = "Anub'Rekhan";
 
-WOW_TRIVIA_QUESTIONS[698] = "What is the mobs that spawns during the Anub'Rekhan fight called? (hint: the huge spiders, which you need to offtank and kill before you can countinue to DPS Anub'Rekhan)";
+WOW_TRIVIA_QUESTIONS[698] = "What is the mobs that spawns during the Anub'Rekhan fight called?";
 WOW_TRIVIA_ANSWERS1[698] = "Crypt Guards";
 WOW_TRIVIA_ANSWERS2[698] = "Crypt Guard";
 
@@ -2816,6 +2820,9 @@ WOW_TRIVIA_ANSWERS1[738] = "Void Zone";
 
 WOW_TRIVIA_QUESTIONS[739] = "Who drops the Ashbringer, in Naxxramas?";
 WOW_TRIVIA_ANSWERS1[739] = "Highlord Mograine";
+WOW_TRIVIA_ANSWERS2[739] = "the four horsemen";
+WOW_TRIVIA_ANSWERS3[739] = "four horsemen";
+WOW_TRIVIA_ANSWERS4[739] = "4 horsemen";
 
 WOW_TRIVIA_QUESTIONS[740] = "You need to tank each of the horsemen seperately, in Naxxramas. (True/False)?";
 WOW_TRIVIA_ANSWERS1[740] = "True";
@@ -2964,6 +2971,7 @@ WOW_TRIVIA_ANSWERS2[785] = "Frostfire";
 
 WOW_TRIVIA_QUESTIONS[786] = "What is the Priest's tier 3 called?";
 WOW_TRIVIA_ANSWERS1[786] = "Vestments of Faith";
+WOW_TRIVIA_ANSWERS2[786] = "Faith";
 
 WOW_TRIVIA_QUESTIONS[787] = "What is the Warlock's tier 3 called?";
 WOW_TRIVIA_ANSWERS1[787] = "Plagueheart Raiment";
